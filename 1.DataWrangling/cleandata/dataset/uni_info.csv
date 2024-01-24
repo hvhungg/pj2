@@ -1,0 +1,1363 @@
+INSTNM,CITY,STABBR,LOCALE,CIP11ASSOC,CIP11BACHL
+Alabama A & M University,Normal,AL,12.0,0.0,2.0
+University of Alabama at Birmingham,Birmingham,AL,12.0,0.0,2.0
+Amridge University,Montgomery,AL,12.0,2.0,2.0
+University of Alabama in Huntsville,Huntsville,AL,12.0,0.0,2.0
+Alabama State University,Montgomery,AL,12.0,0.0,2.0
+The University of Alabama,Tuscaloosa,AL,13.0,0.0,2.0
+Auburn University at Montgomery,Montgomery,AL,12.0,0.0,2.0
+Auburn University,AuburnUniversity,AL,13.0,0.0,2.0
+Birmingham Southern College,Birmingham,AL,12.0,0.0,1.0
+South University-Montgomery,Montgomery,AL,12.0,1.0,1.0
+Faulkner University,Montgomery,AL,12.0,1.0,2.0
+Gadsden State Community College,Gadsden,AL,13.0,2.0,0.0
+J F Drake State Community and Technical College,Huntsville,AL,12.0,1.0,0.0
+Jacksonville State University,Jacksonville,AL,13.0,0.0,2.0
+Jefferson State Community College,Birmingham,AL,12.0,2.0,0.0
+Lawson State Community College-Birmingham Campus,Birmingham,AL,12.0,1.0,0.0
+Northwest-Shoals Community College,MuscleShoals,AL,13.0,2.0,0.0
+University of North Alabama,Florence,AL,13.0,0.0,2.0
+Oakwood University,Huntsville,AL,12.0,1.0,1.0
+Bishop State Community College,Mobile,AL,12.0,1.0,0.0
+Shelton State Community College,Tuscaloosa,AL,13.0,1.0,0.0
+University of South Alabama,Mobile,AL,12.0,0.0,1.0
+H Councill Trenholm State Technical College,Montgomery,AL,12.0,1.0,0.0
+University of Alaska Anchorage,Anchorage,AK,11.0,2.0,2.0
+Charter College-Anchorage,Anchorage,AK,11.0,2.0,2.0
+Collins College,Phoenix,AZ,11.0,1.0,1.0
+College America-Flagstaff,Flagstaff,AZ,13.0,1.0,1.0
+Arizona State University-Tempe,Tempe,AZ,12.0,0.0,2.0
+Arizona Western College,Yuma,AZ,13.0,2.0,0.0
+University of Arizona,Tucson,AZ,11.0,0.0,2.0
+Brown Mackie College-Tucson,Tucson,AZ,11.0,1.0,1.0
+Anthem College-Phoenix,Phoenix,AZ,11.0,2.0,2.0
+GateWay Community College,Phoenix,AZ,11.0,2.0,0.0
+Mesa Community College,Mesa,AZ,11.0,2.0,0.0
+ITT Technical Institute-Tempe,Tempe,AZ,12.0,1.0,1.0
+Northern Arizona University,Flagstaff,AZ,13.0,0.0,2.0
+Phoenix College,Phoenix,AZ,11.0,2.0,0.0
+University of Phoenix-Phoenix Campus,Tempe,AZ,12.0,2.0,2.0
+Pima Community College,Tucson,AZ,11.0,2.0,0.0
+Rio Salado College,Tempe,AZ,12.0,2.0,0.0
+South Mountain Community College,Phoenix,AZ,11.0,1.0,0.0
+Western International University,Tempe,AZ,12.0,2.0,2.0
+Yavapai College,Prescott,AZ,13.0,2.0,0.0
+University of Arkansas at Little Rock,LittleRock,AR,12.0,1.0,2.0
+University of Arkansas,Fayetteville,AR,13.0,0.0,2.0
+University of Arkansas at Pine Bluff,PineBluff,AR,13.0,1.0,1.0
+Arkansas State University-Main Campus,Jonesboro,AR,13.0,2.0,2.0
+University of Central Arkansas,Conway,AR,13.0,1.0,1.0
+Hendrix College,Conway,AR,13.0,0.0,1.0
+Philander Smith College,LittleRock,AR,12.0,0.0,1.0
+Southeast Arkansas College,PineBluff,AR,13.0,1.0,0.0
+University of Arkansas-Fort Smith,FortSmith,AR,13.0,2.0,2.0
+Academy of Art University,SanFrancisco,CA,11.0,2.0,2.0
+ITT Technical Institute-Rancho Cordova,RanchoCordova,CA,13.0,1.0,1.0
+Allan Hancock College,SantaMaria,CA,12.0,2.0,0.0
+Art Center College of Design,Pasadena,CA,12.0,0.0,1.0
+Bakersfield College,Bakersfield,CA,11.0,1.0,0.0
+Bethesda University of California,Anaheim,CA,11.0,0.0,2.0
+California Baptist University,Riverside,CA,11.0,0.0,2.0
+California Institute of Technology,Pasadena,CA,12.0,0.0,1.0
+California Lutheran University,ThousandOaks,CA,12.0,0.0,2.0
+California State University-Bakersfield,Bakersfield,CA,11.0,0.0,2.0
+California State University-San Bernardino,SanBernardino,CA,12.0,0.0,2.0
+California State University-Chico,Chico,CA,13.0,0.0,2.0
+California State University-Dominguez Hills,Carson,CA,13.0,0.0,2.0
+California State University-Fresno,Fresno,CA,11.0,0.0,2.0
+California State University-East Bay,Hayward,CA,12.0,0.0,2.0
+California State University-Long Beach,LongBeach,CA,11.0,0.0,1.0
+California State University-Los Angeles,LosAngeles,CA,11.0,0.0,1.0
+California State University-Northridge,Northridge,CA,11.0,0.0,2.0
+California State University-Sacramento,Sacramento,CA,11.0,0.0,1.0
+University of California-Berkeley,Berkeley,CA,12.0,0.0,2.0
+University of California-Irvine,Irvine,CA,12.0,0.0,1.0
+University of California-Los Angeles,LosAngeles,CA,11.0,0.0,1.0
+University of California-Riverside,Riverside,CA,11.0,0.0,1.0
+University of California-San Diego,LaJolla,CA,11.0,0.0,1.0
+University of California-Santa Cruz,SantaCruz,CA,13.0,0.0,1.0
+California College San Diego,SanDiego,CA,11.0,1.0,1.0
+Chabot College,Hayward,CA,12.0,1.0,0.0
+Chapman University,Orange,CA,12.0,0.0,1.0
+City College of San Francisco,SanFrancisco,CA,11.0,2.0,0.0
+Coastline Community College,FountainValley,CA,13.0,1.0,0.0
+Coleman University,SanDiego,CA,11.0,1.0,1.0
+Cosumnes River College,Sacramento,CA,11.0,1.0,0.0
+De Anza College,Cupertino,CA,13.0,1.0,0.0
+East Los Angeles College,MontereyPark,CA,13.0,1.0,0.0
+Empire College School of Business,SantaRosa,CA,12.0,1.0,0.0
+Evergreen Valley College,SanJose,CA,11.0,2.0,0.0
+Fresno City College,Fresno,CA,11.0,1.0,0.0
+Glendale Community College,Glendale,CA,12.0,1.0,0.0
+Golden Gate University-San Francisco,SanFrancisco,CA,11.0,0.0,2.0
+Hartnell College,Salinas,CA,12.0,1.0,0.0
+Heald College-Rancho Cordova,RanchoCordova,CA,13.0,1.0,0.0
+Heald College-Fresno,Fresno,CA,11.0,1.0,0.0
+Heald College-San Jose,Milpitas,CA,13.0,1.0,0.0
+Heald College-San Francisco,SanFrancisco,CA,11.0,1.0,0.0
+Holy Names University,Oakland,CA,11.0,0.0,1.0
+Irvine Valley College,Irvine,CA,12.0,1.0,0.0
+ITT Technical Institute-Orange,Orange,CA,12.0,1.0,1.0
+The Art Institute of California-Argosy University San Diego,SanDiego,CA,11.0,1.0,1.0
+Laney College,Oakland,CA,11.0,1.0,0.0
+La Sierra University,Riverside,CA,11.0,0.0,1.0
+Long Beach City College,LongBeach,CA,11.0,1.0,0.0
+Los Angeles Harbor College,Wilmington,CA,11.0,1.0,0.0
+Los Angeles Pierce College,WoodlandHills,CA,11.0,1.0,0.0
+Los Angeles Trade Technical College,LosAngeles,CA,11.0,1.0,0.0
+Los Angeles Valley College,ValleyGlen,CA,11.0,1.0,0.0
+Los Angeles City College,LosAngeles,CA,11.0,1.0,0.0
+Los Angeles Mission College,Sylmar,CA,11.0,1.0,0.0
+The Art Institute of California-Argosy University San Francisco,SanFrancisco,CA,11.0,1.0,2.0
+Loyola Marymount University,LosAngeles,CA,11.0,0.0,1.0
+Merced College,Merced,CA,13.0,1.0,0.0
+Mission College,SantaClara,CA,12.0,1.0,0.0
+Modesto Junior College,Modesto,CA,12.0,2.0,0.0
+Napa Valley College,Napa,CA,13.0,1.0,0.0
+National University,LaJolla,CA,11.0,2.0,2.0
+Occidental College,LosAngeles,CA,11.0,0.0,1.0
+Orange Coast College,CostaMesa,CA,12.0,1.0,0.0
+Oxnard College,Oxnard,CA,12.0,1.0,0.0
+Pacific States University,LosAngeles,CA,11.0,0.0,1.0
+University of the Pacific,Stockton,CA,11.0,0.0,1.0
+Pasadena City College,Pasadena,CA,12.0,1.0,0.0
+Platt College-San Diego,SanDiego,CA,11.0,1.0,1.0
+Point Loma Nazarene University,SanDiego,CA,11.0,0.0,1.0
+Porterville College,Porterville,CA,13.0,1.0,0.0
+Westwood College-South Bay,Torrance,CA,11.0,1.0,1.0
+Santa Ana College,SantaAna,CA,11.0,2.0,0.0
+University of Redlands,Redlands,CA,13.0,0.0,1.0
+Riverside City College,Riverside,CA,11.0,1.0,0.0
+Sacramento City College,Sacramento,CA,11.0,1.0,0.0
+San Diego City College,SanDiego,CA,11.0,1.0,0.0
+San Diego Mesa College,SanDiego,CA,11.0,1.0,0.0
+San Diego Miramar College,SanDiego,CA,11.0,1.0,0.0
+San Diego State University,SanDiego,CA,11.0,0.0,1.0
+University of San Diego,SanDiego,CA,11.0,0.0,1.0
+San Francisco State University,SanFrancisco,CA,11.0,0.0,1.0
+University of San Francisco,SanFrancisco,CA,11.0,0.0,1.0
+San Joaquin Delta College,Stockton,CA,11.0,1.0,0.0
+San Jose City College,SanJose,CA,11.0,2.0,0.0
+San Jose State University,SanJose,CA,11.0,0.0,2.0
+Santa Barbara Business College-Bakersfield,Bakersfield,CA,11.0,2.0,1.0
+Westwood College-Los Angeles,LosAngeles,CA,11.0,2.0,2.0
+Santa Barbara City College,SantaBarbara,CA,13.0,2.0,0.0
+Santa Clara University,SantaClara,CA,12.0,0.0,1.0
+Santa Monica College,SantaMonica,CA,13.0,1.0,0.0
+Santa Rosa Junior College,SantaRosa,CA,12.0,1.0,0.0
+College of the Sequoias,Visalia,CA,12.0,1.0,0.0
+San Bernardino Valley College,SanBernardino,CA,12.0,2.0,0.0
+Vanguard University of Southern California,CostaMesa,CA,12.0,1.0,1.0
+University of Southern California,LosAngeles,CA,11.0,0.0,1.0
+Victor Valley College,Victorville,CA,12.0,1.0,0.0
+Berkeley City College,Berkeley,CA,12.0,1.0,0.0
+Walden University,Minneapolis,MN,11.0,0.0,2.0
+Woodbury University,Burbank,CA,11.0,0.0,1.0
+Aims Community College,Greeley,CO,13.0,2.0,0.0
+Everest College-Colorado Springs,ColoradoSprings,CO,11.0,2.0,0.0
+University of Colorado Denver,Denver,CO,11.0,0.0,2.0
+University of Colorado Colorado Springs,ColoradoSprings,CO,11.0,0.0,2.0
+University of Colorado Boulder,Boulder,CO,13.0,0.0,1.0
+Colorado Christian University,Lakewood,CO,12.0,2.0,2.0
+Colorado College,ColoradoSprings,CO,11.0,0.0,1.0
+The Art Institute of Colorado,Denver,CO,11.0,1.0,1.0
+Colorado State University-Fort Collins,FortCollins,CO,12.0,0.0,2.0
+Colorado Technical University-Colorado Springs,ColoradoSprings,CO,11.0,1.0,1.0
+Community College of Aurora,Aurora,CO,11.0,2.0,0.0
+College America-Denver,Denver,CO,11.0,1.0,1.0
+Community College of Denver,Denver,CO,11.0,2.0,0.0
+University of Denver,Denver,CO,11.0,0.0,2.0
+Colorado Mesa University,GrandJunction,CO,13.0,2.0,2.0
+Metropolitan State University of Denver,Denver,CO,11.0,0.0,2.0
+National American University-Colorado Springs,ColoradoSprings,CO,11.0,2.0,2.0
+National American University-Denver,Denver,CO,11.0,2.0,2.0
+Pueblo Community College,Pueblo,CO,12.0,2.0,0.0
+Red Rocks Community College,Lakewood,CO,12.0,2.0,0.0
+Regis University,Denver,CO,11.0,0.0,2.0
+Rocky Mountain College of Art and Design,Lakewood,CO,12.0,0.0,2.0
+Colorado State University-Pueblo,Pueblo,CO,12.0,0.0,2.0
+Intellitec College-Colorado Springs,ColoradoSprings,CO,11.0,1.0,0.0
+University of Bridgeport,Bridgeport,CT,12.0,1.0,2.0
+Connecticut College,NewLondon,CT,13.0,0.0,1.0
+Capital Community College,Hartford,CT,12.0,2.0,0.0
+University of Hartford,WestHartford,CT,12.0,1.0,2.0
+Housatonic Community College,Bridgeport,CT,12.0,1.0,0.0
+Middlesex Community College,Middletown,CT,13.0,1.0,0.0
+Mitchell College,NewLondon,CT,13.0,1.0,1.0
+Three Rivers Community College,Norwich,CT,13.0,1.0,0.0
+Norwalk Community College,Norwalk,CT,13.0,2.0,0.0
+Gateway Community College,NewHaven,CT,12.0,1.0,0.0
+Southern Connecticut State University,NewHaven,CT,12.0,0.0,1.0
+Trinity College,Hartford,CT,12.0,0.0,1.0
+Wesleyan University,Middletown,CT,13.0,0.0,1.0
+Western Connecticut State University,Danbury,CT,13.0,1.0,1.0
+Yale University,NewHaven,CT,12.0,0.0,2.0
+Delaware Technical Community College-Terry,Dover,DE,13.0,1.0,0.0
+Delaware Technical Community College-Stanton/Wilmington,Wilmington,DE,13.0,1.0,0.0
+Delaware State University,Dover,DE,13.0,0.0,1.0
+American University,Washington,DC,11.0,1.0,1.0
+Catholic University of America,Washington,DC,11.0,1.0,1.0
+Corcoran College of Art and Design,Washington,DC,11.0,1.0,1.0
+University of the District of Columbia,Washington,DC,11.0,1.0,1.0
+Gallaudet University,Washington,DC,11.0,0.0,2.0
+George Washington University,Washington,DC,11.0,2.0,2.0
+Georgetown University,Washington,DC,11.0,0.0,1.0
+Howard University,Washington,DC,11.0,0.0,1.0
+Strayer University-District of Columbia,Washington,DC,11.0,2.0,2.0
+The Art Institute of Fort Lauderdale,FortLauderdale,FL,12.0,1.0,1.0
+Bethune-Cookman University,DaytonaBeach,FL,13.0,0.0,2.0
+College of Central Florida,Ocala,FL,13.0,2.0,1.0
+Clearwater Christian College,Clearwater,FL,12.0,1.0,1.0
+Daytona State College,DaytonaBeach,FL,13.0,2.0,2.0
+Eckerd College,SaintPetersburg,FL,12.0,0.0,1.0
+Edward Waters College,Jacksonville,FL,11.0,0.0,1.0
+Embry-Riddle Aeronautical University-Daytona Beach,DaytonaBeach,FL,13.0,1.0,1.0
+Florida Agricultural and Mechanical University,Tallahassee,FL,12.0,1.0,1.0
+Florida Atlantic University,BocaRaton,FL,13.0,1.0,2.0
+Florida State College at Jacksonville,Jacksonville,FL,11.0,2.0,2.0
+Florida Institute of Technology,Melbourne,FL,13.0,0.0,1.0
+Florida Southern College,Lakeland,FL,13.0,0.0,1.0
+Florida State University,Tallahassee,FL,12.0,1.0,2.0
+University of Southernmost Florida,Jacksonville,FL,11.0,1.0,0.0
+University of Florida,Gainesville,FL,12.0,1.0,2.0
+Everest University-Pompano Beach,PompanoBeach,FL,12.0,2.0,2.0
+Gulf Coast State College,PanamaCity,FL,13.0,2.0,1.0
+Hillsborough Community College,Tampa,FL,11.0,1.0,0.0
+AI Miami International University of Art and Design,Miami,FL,11.0,1.0,1.0
+Jacksonville University,Jacksonville,FL,11.0,0.0,2.0
+Jones College-Jacksonville,Jacksonville,FL,11.0,2.0,2.0
+Keiser University-Ft Lauderdale,FortLauderdale,FL,12.0,2.0,2.0
+Miami Dade College,Miami,FL,11.0,2.0,1.0
+Lincoln College of Technology-West Palm Beach,WestPalmBeach,FL,12.0,2.0,2.0
+University of North Florida,Jacksonville,FL,11.0,1.0,2.0
+Northwood University-Florida,WestPalmBeach,FL,12.0,2.0,2.0
+Palm Beach Atlantic University,WestPalmBeach,FL,12.0,1.0,2.0
+Pensacola State College,Pensacola,FL,13.0,2.0,2.0
+Polk State College,WinterHaven,FL,13.0,1.0,1.0
+St Petersburg College,Clearwater,FL,13.0,2.0,2.0
+Seminole State College of Florida,Sanford,FL,13.0,2.0,1.0
+University of South Florida-Main Campus,Tampa,FL,11.0,1.0,1.0
+Tallahassee Community College,Tallahassee,FL,12.0,2.0,0.0
+Everest University-Tampa,Tampa,FL,11.0,2.0,2.0
+Everest University-Largo,Largo,FL,13.0,2.0,2.0
+The University of Tampa,Tampa,FL,11.0,1.0,1.0
+Valencia College,Orlando,FL,12.0,2.0,1.0
+Rasmussen College-Florida,Ocala,FL,13.0,2.0,2.0
+The University of West Florida,Pensacola,FL,13.0,1.0,2.0
+Albany Technical College,Albany,GA,13.0,2.0,0.0
+Darton State College,Albany,GA,13.0,2.0,0.0
+Albany State University,Albany,GA,13.0,0.0,2.0
+Armstrong Atlantic State University,Savannah,GA,12.0,1.0,2.0
+The Art Institute of Atlanta,Atlanta,GA,13.0,1.0,1.0
+Atlanta Technical College,Atlanta,GA,11.0,2.0,0.0
+Atlanta Metropolitan State College,Atlanta,GA,11.0,2.0,1.0
+Clark Atlanta University,Atlanta,GA,11.0,0.0,1.0
+Augusta Technical College,Augusta,GA,12.0,2.0,0.0
+Bauder College,Atlanta,GA,11.0,1.0,1.0
+Columbus Technical College,Columbus,GA,12.0,2.0,0.0
+Columbus State University,Columbus,GA,12.0,1.0,2.0
+Georgia Northwestern Technical College,Rome,GA,13.0,2.0,0.0
+South University-Savannah,Savannah,GA,12.0,1.0,1.0
+Georgia Institute of Technology-Main Campus,Atlanta,GA,11.0,0.0,1.0
+Georgia State University,Atlanta,GA,11.0,0.0,1.0
+University of Georgia,Athens,GA,12.0,0.0,1.0
+Life University,Marietta,GA,13.0,1.0,1.0
+Herzing University-Atlanta,Atlanta,GA,11.0,2.0,2.0
+Mercer University,Macon,GA,13.0,0.0,2.0
+Morehouse College,Atlanta,GA,11.0,0.0,1.0
+Savannah Technical College,Savannah,GA,12.0,1.0,0.0
+Savannah College of Art and Design,Savannah,GA,12.0,0.0,2.0
+Savannah State University,Savannah,GA,12.0,1.0,1.0
+Shorter University,Rome,GA,13.0,2.0,2.0
+Southern Polytechnic State University,Marietta,GA,13.0,1.0,2.0
+Valdosta State University,Valdosta,GA,13.0,1.0,2.0
+Heald College-Honolulu,Honolulu,HI,11.0,1.0,0.0
+Chaminade University of Honolulu,Honolulu,HI,11.0,1.0,1.0
+University of Hawaii at Manoa,Honolulu,HI,11.0,0.0,2.0
+Hawaii Pacific University,Honolulu,HI,11.0,2.0,2.0
+Honolulu Community College,Honolulu,HI,11.0,1.0,0.0
+Kapiolani Community College,Honolulu,HI,11.0,1.0,0.0
+Boise State University,Boise,ID,12.0,2.0,2.0
+Eastern Idaho Technical College,IdahoFalls,ID,13.0,1.0,0.0
+Idaho State University,Pocatello,ID,13.0,2.0,2.0
+Lewis-Clark State College,Lewiston,ID,13.0,2.0,2.0
+ITT Technical Institute-Boise,Boise,ID,12.0,1.0,1.0
+North Idaho College,Coeurd'Alene,ID,13.0,2.0,0.0
+American Academy of Art,Chicago,IL,11.0,0.0,1.0
+Augustana College,RockIsland,IL,13.0,0.0,1.0
+Black Hawk College,Moline,IL,13.0,1.0,0.0
+Bradley University,Peoria,IL,12.0,0.0,1.0
+Chicago State University,Chicago,IL,11.0,0.0,1.0
+University of Chicago,Chicago,IL,11.0,0.0,1.0
+City Colleges of Chicago-Kennedy-King College,Chicago,IL,11.0,1.0,0.0
+City Colleges of Chicago-Malcolm X College,Chicago,IL,11.0,1.0,0.0
+City Colleges of Chicago-Olive-Harvey College,Chicago,IL,11.0,1.0,0.0
+City Colleges of Chicago-Harry S Truman College,Chicago,IL,11.0,1.0,0.0
+City Colleges of Chicago-Richard J Daley College,Chicago,IL,11.0,1.0,0.0
+City Colleges of Chicago-Harold Washington College,Chicago,IL,11.0,1.0,0.0
+City Colleges of Chicago-Wilbur Wright College,Chicago,IL,11.0,1.0,0.0
+Columbia College-Chicago,Chicago,IL,11.0,0.0,1.0
+Danville Area Community College,Danville,IL,13.0,2.0,0.0
+DePaul University,Chicago,IL,11.0,0.0,2.0
+East-West University,Chicago,IL,11.0,1.0,1.0
+Elgin Community College,Elgin,IL,12.0,1.0,0.0
+Harrington College of Design,Chicago,IL,11.0,1.0,1.0
+University of Illinois at Chicago,Chicago,IL,11.0,0.0,2.0
+University of Illinois at Urbana-Champaign,Champaign,IL,13.0,0.0,2.0
+Illinois Wesleyan University,Bloomington,IL,13.0,0.0,1.0
+Illinois Institute of Technology,Chicago,IL,11.0,0.0,1.0
+International Academy of Design and Technology-Chicago,Chicago,IL,11.0,1.0,1.0
+Kankakee Community College,Kankakee,IL,13.0,1.0,0.0
+Lincoln Land Community College,Springfield,IL,12.0,1.0,0.0
+Loyola University Chicago,Chicago,IL,11.0,0.0,2.0
+Midstate College,Peoria,IL,12.0,2.0,2.0
+Millikin University,Decatur,IL,13.0,0.0,1.0
+National Louis University,Chicago,IL,11.0,0.0,2.0
+North Central College,Naperville,IL,12.0,0.0,1.0
+Northwestern University,Evanston,IL,13.0,0.0,1.0
+Northeastern Illinois University,Chicago,IL,11.0,0.0,1.0
+Oakton Community College,DesPlaines,IL,13.0,1.0,0.0
+Parkland College,Champaign,IL,13.0,1.0,0.0
+The Illinois Institute of Art-Chicago,Chicago,IL,11.0,1.0,1.0
+Richland Community College,Decatur,IL,13.0,1.0,0.0
+Robert Morris University Illinois,Chicago,IL,11.0,1.0,1.0
+Rock Valley College,Rockford,IL,12.0,1.0,0.0
+Madison Media Institute - Rockford Career College,Rockford,IL,12.0,1.0,0.0
+Rockford University,Rockford,IL,12.0,0.0,1.0
+Roosevelt University,Chicago,IL,11.0,0.0,2.0
+Saint Xavier University,Chicago,IL,11.0,0.0,2.0
+University of Illinois at Springfield,Springfield,IL,12.0,0.0,2.0
+Saint Augustine College,Chicago,IL,11.0,1.0,1.0
+Southern Illinois University-Carbondale,Carbondale,IL,13.0,1.0,1.0
+Anderson University,Anderson,IN,13.0,1.0,2.0
+Ball State University,Muncie,IN,13.0,2.0,2.0
+Bethel College-Indiana,Mishawaka,IN,13.0,2.0,2.0
+Butler University,Indianapolis,IN,11.0,1.0,1.0
+University of Evansville,Evansville,IN,12.0,1.0,1.0
+Goshen College,Goshen,IN,13.0,0.0,1.0
+Ivy Tech Community College,Indianapolis,IN,11.0,2.0,0.0
+Indiana University-Purdue University-Fort Wayne,FortWayne,IN,11.0,1.0,2.0
+Indiana University-Purdue University-Indianapolis,Indianapolis,IN,11.0,2.0,2.0
+Harrison College-Indianapolis,Indianapolis,IN,11.0,2.0,2.0
+University of Indianapolis,Indianapolis,IN,11.0,1.0,1.0
+Indiana Institute of Technology,FortWayne,IN,11.0,2.0,2.0
+Indiana State University,TerreHaute,IN,13.0,1.0,2.0
+Indiana University-Kokomo,Kokomo,IN,13.0,1.0,2.0
+Indiana University-South Bend,SouthBend,IN,12.0,1.0,2.0
+Indiana University-Bloomington,Bloomington,IN,13.0,2.0,2.0
+Indiana University-Northwest,Gary,IN,13.0,2.0,2.0
+International Business College-Fort Wayne,FortWayne,IN,11.0,1.0,1.0
+International Business College-Indianapolis,Indianapolis,IN,11.0,1.0,0.0
+ITT Technical Institute-Nashville,Nashville,TN,11.0,1.0,1.0
+ITT Technical Institute-Fort Wayne,FortWayne,IN,11.0,1.0,1.0
+ITT Technical Institute-Indianapolis,Indianapolis,IN,11.0,2.0,2.0
+Brown Mackie College-Michigan City,MichiganCity,IN,13.0,1.0,1.0
+Rose-Hulman Institute of Technology,TerreHaute,IN,13.0,0.0,1.0
+AIB College of Business,DesMoines,IA,12.0,2.0,2.0
+Briar Cliff University,SiouxCity,IA,13.0,1.0,1.0
+Clarke University,Dubuque,IA,13.0,1.0,1.0
+Coe College,CedarRapids,IA,12.0,0.0,1.0
+Drake University,DesMoines,IA,12.0,0.0,1.0
+University of Dubuque,Dubuque,IA,13.0,0.0,1.0
+Emmaus Bible College,Dubuque,IA,13.0,1.0,1.0
+Eastern Iowa Community College District,Davenport,IA,12.0,2.0,0.0
+Grand View University,DesMoines,IA,12.0,1.0,1.0
+Kaplan University-Cedar Rapids Campus,CedarRapids,IA,12.0,2.0,2.0
+Hawkeye Community College,Waterloo,IA,13.0,2.0,0.0
+Iowa State University,Ames,IA,13.0,0.0,2.0
+Iowa Western Community College,CouncilBluffs,IA,13.0,2.0,0.0
+University of Iowa,IowaCity,IA,13.0,0.0,2.0
+Kirkwood Community College,CedarRapids,IA,12.0,2.0,0.0
+Loras College,Dubuque,IA,13.0,1.0,1.0
+Morningside College,SiouxCity,IA,13.0,0.0,1.0
+Mount Mercy University,CedarRapids,IA,12.0,0.0,1.0
+University of Northern Iowa,CedarFalls,IA,13.0,0.0,2.0
+Saint Ambrose University,Davenport,IA,12.0,0.0,1.0
+Western Iowa Tech Community College,SiouxCity,IA,13.0,2.0,0.0
+Bryan University,Topeka,KS,12.0,1.0,0.0
+Friends University,Wichita,KS,11.0,1.0,2.0
+Johnson County Community College,OverlandPark,KS,12.0,2.0,0.0
+Kansas City Kansas Community College,KansasCity,KS,12.0,2.0,0.0
+University of Kansas,Lawrence,KS,13.0,0.0,2.0
+Newman University,Wichita,KS,11.0,1.0,2.0
+Kansas State University,Manhattan,KS,13.0,1.0,1.0
+Manhattan Area Technical College,Manhattan,KS,13.0,1.0,0.0
+Ottawa University-Kansas City,OverlandPark,KS,12.0,0.0,2.0
+Washburn University,Topeka,KS,12.0,2.0,2.0
+Wichita State University,Wichita,KS,11.0,1.0,2.0
+Wichita Technical Institute,Wichita,KS,11.0,1.0,0.0
+Ashland Community and Technical College,Ashland,KY,13.0,2.0,0.0
+Bellarmine University,Louisville,KY,11.0,0.0,1.0
+Southcentral Kentucky Community and Technical College,BowlingGreen,KY,13.0,2.0,0.0
+Bluegrass Community and Technical College,Lexington,KY,11.0,2.0,0.0
+Elizabethtown Community and Technical College,Elizabethtown,KY,13.0,2.0,0.0
+Jefferson Community and Technical College,Louisville,KY,11.0,2.0,0.0
+National College-Lexington,Lexington,KY,11.0,2.0,2.0
+Kentucky Wesleyan College,Owensboro,KY,13.0,0.0,2.0
+University of Kentucky,Lexington,KY,11.0,0.0,2.0
+University of Louisville,Louisville,KY,11.0,1.0,2.0
+Daymar College-Owensboro,Owensboro,KY,13.0,1.0,1.0
+Brown Mackie College-Louisville,Louisville,KY,11.0,1.0,1.0
+Sullivan University,Louisville,KY,11.0,2.0,2.0
+Transylvania University,Lexington,KY,11.0,0.0,1.0
+Western Kentucky University,BowlingGreen,KY,13.0,2.0,2.0
+Central Louisiana Technical Community College,Alexandria,LA,13.0,1.0,0.0
+Baton Rouge School of Computers,BatonRouge,LA,12.0,1.0,0.0
+Capital Area Technical College,BatonRouge,LA,12.0,1.0,0.0
+Bossier Parish Community College,BossierCity,LA,13.0,2.0,0.0
+Cameron College,NewOrleans,LA,11.0,1.0,0.0
+Delgado Community College,NewOrleans,LA,11.0,2.0,0.0
+Delta School of Business and Technology,LakeCharles,LA,13.0,1.0,0.0
+Dillard University,NewOrleans,LA,11.0,0.0,1.0
+Louisiana State University-Shreveport,Shreveport,LA,12.0,0.0,1.0
+Acadiana Technical College-Lafayette Campus,Lafayette,LA,12.0,1.0,0.0
+Loyola University New Orleans,NewOrleans,LA,11.0,0.0,2.0
+McNeese State University,LakeCharles,LA,13.0,2.0,2.0
+University of New Orleans,NewOrleans,LA,11.0,0.0,1.0
+Nicholls State University,Thibodaux,LA,13.0,2.0,2.0
+University of Louisiana at Monroe,Monroe,LA,13.0,2.0,2.0
+Remington College-Lafayette Campus,Lafayette,LA,12.0,1.0,0.0
+SOWELA Technical Community College,LakeCharles,LA,13.0,1.0,0.0
+Southeastern Louisiana University,Hammond,LA,13.0,1.0,2.0
+Southern University and A & M College,BatonRouge,LA,12.0,0.0,2.0
+Southern University at Shreveport,Shreveport,LA,12.0,1.0,0.0
+University of Louisiana at Lafayette,Lafayette,LA,12.0,0.0,2.0
+Tulane University of Louisiana,NewOrleans,LA,11.0,1.0,1.0
+Xavier University of Louisiana,NewOrleans,LA,11.0,0.0,2.0
+Kaplan University-Maine Campus,SPortland,ME,13.0,2.0,2.0
+Eastern Maine Community College,Bangor,ME,13.0,2.0,0.0
+Husson University,Bangor,ME,13.0,1.0,2.0
+Southern Maine Community College,SouthPortland,ME,13.0,1.0,0.0
+University of Southern Maine,Portland,ME,13.0,0.0,2.0
+Allegany College of Maryland,Cumberland,MD,13.0,2.0,0.0
+TESST College of Technology-Towson,Towson,MD,13.0,1.0,0.0
+Baltimore City Community College,Baltimore,MD,11.0,2.0,0.0
+University of Baltimore,Baltimore,MD,11.0,0.0,2.0
+Coppin State University,Baltimore,MD,11.0,0.0,2.0
+Frederick Community College,Frederick,MD,13.0,2.0,0.0
+Goucher College,Baltimore,MD,13.0,0.0,1.0
+Hood College,Frederick,MD,13.0,0.0,1.0
+Howard Community College,Columbia,MD,13.0,2.0,0.0
+Johns Hopkins University,Baltimore,MD,11.0,0.0,1.0
+Loyola University Maryland,Baltimore,MD,11.0,0.0,1.0
+Montgomery College,Rockville,MD,13.0,1.0,0.0
+Morgan State University,Baltimore,MD,11.0,0.0,2.0
+TESST College of Technology-Baltimore,Baltimore,MD,11.0,1.0,0.0
+Sojourner-Douglass College,Baltimore,MD,11.0,0.0,1.0
+Towson University,Towson,MD,13.0,0.0,1.0
+American International College,Springfield,MA,12.0,1.0,2.0
+Assumption College,Worcester,MA,12.0,2.0,2.0
+Bentley University,Waltham,MA,13.0,0.0,1.0
+Boston College,ChestnutHill,MA,13.0,0.0,1.0
+Boston University,Boston,MA,11.0,0.0,1.0
+Brandeis University,Waltham,MA,13.0,0.0,1.0
+Bunker Hill Community College,Boston,MA,11.0,1.0,0.0
+Cape Cod Community College,WestBarnstable,MA,13.0,1.0,0.0
+Clark University,Worcester,MA,12.0,0.0,1.0
+Fisher College,Boston,MA,11.0,2.0,2.0
+Framingham State University,Framingham,MA,13.0,0.0,2.0
+Harvard University,Cambridge,MA,12.0,1.0,1.0
+University of Massachusetts-Boston,Boston,MA,11.0,0.0,2.0
+Massachusetts Institute of Technology,Cambridge,MA,12.0,0.0,1.0
+Northeastern University,Boston,MA,11.0,1.0,2.0
+Quinsigamond Community College,Worcester,MA,12.0,2.0,0.0
+Roxbury Community College,RoxburyCrossing,MA,11.0,1.0,0.0
+Springfield College,Springfield,MA,12.0,0.0,1.0
+Springfield Technical Community College,Springfield,MA,12.0,1.0,0.0
+Suffolk University,Boston,MA,11.0,1.0,2.0
+Wentworth Institute of Technology,Boston,MA,11.0,1.0,1.0
+Western New England University,Springfield,MA,12.0,1.0,2.0
+Worcester Polytechnic Institute,Worcester,MA,12.0,0.0,1.0
+Worcester State University,Worcester,MA,12.0,0.0,1.0
+Aquinas College,GrandRapids,MI,12.0,1.0,1.0
+Calvin College,GrandRapids,MI,12.0,0.0,1.0
+Mott Community College,Flint,MI,12.0,1.0,0.0
+Concordia University-Ann Arbor,AnnArbor,MI,12.0,1.0,1.0
+University of Detroit Mercy,Detroit,MI,11.0,0.0,1.0
+Kettering University,Flint,MI,12.0,0.0,1.0
+Grand Rapids Community College,GrandRapids,MI,12.0,1.0,0.0
+Henry Ford Community College,Dearborn,MI,13.0,2.0,0.0
+Hope College,Holland,MI,13.0,0.0,1.0
+ITT Technical Institute-Wyoming,Wyoming,MI,13.0,1.0,1.0
+Kalamazoo College,Kalamazoo,MI,13.0,0.0,1.0
+Kellogg Community College,BattleCreek,MI,13.0,1.0,0.0
+Lansing Community College,Lansing,MI,12.0,2.0,0.0
+Lawrence Technological University,Southfield,MI,13.0,1.0,2.0
+Macomb Community College,Warren,MI,12.0,1.0,0.0
+Madonna University,Livonia,MI,13.0,1.0,2.0
+Marygrove College,Detroit,MI,11.0,1.0,1.0
+University of Michigan-Ann Arbor,AnnArbor,MI,12.0,0.0,2.0
+Michigan State University,EastLansing,MI,13.0,0.0,2.0
+University of Michigan-Dearborn,Dearborn,MI,13.0,0.0,2.0
+University of Michigan-Flint,Flint,MI,12.0,0.0,2.0
+Baker College of Muskegon,Muskegon,MI,13.0,2.0,2.0
+Muskegon Community College,Muskegon,MI,13.0,1.0,0.0
+Northwood University-Michigan,Midland,MI,13.0,2.0,2.0
+Schoolcraft College,Livonia,MI,13.0,2.0,0.0
+Walsh College of Accountancy and Business Administration,Troy,MI,13.0,0.0,2.0
+Wayne County Community College District,Detroit,MI,11.0,1.0,0.0
+Wayne State University,Detroit,MI,11.0,0.0,2.0
+Western Michigan University,Kalamazoo,MI,13.0,0.0,1.0
+Academy College,Minneapolis,MN,13.0,1.0,2.0
+Augsburg College,Minneapolis,MN,11.0,0.0,2.0
+Lake Superior College,Duluth,MN,13.0,2.0,0.0
+The Art Institutes International-Minnesota,Minneapolis,MN,11.0,1.0,1.0
+Macalester College,SaintPaul,MN,11.0,0.0,1.0
+South Central College,NorthMankato,MN,13.0,2.0,0.0
+Minnesota State University-Mankato,Mankato,MN,13.0,1.0,1.0
+Metropolitan State University,SaintPaul,MN,11.0,0.0,2.0
+University of Minnesota-Twin Cities,Minneapolis,MN,11.0,0.0,2.0
+Minneapolis Community and Technical College,Minneapolis,MN,11.0,2.0,0.0
+University of Minnesota-Duluth,Duluth,MN,13.0,0.0,1.0
+Normandale Community College,Bloomington,MN,13.0,2.0,0.0
+Rochester Community and Technical College,Rochester,MN,12.0,2.0,0.0
+St Cloud Technical and Community College,SaintCloud,MN,13.0,2.0,0.0
+Saint Cloud State University,SaintCloud,MN,13.0,1.0,2.0
+The College of Saint Scholastica,Duluth,MN,13.0,0.0,2.0
+University of St Thomas,SaintPaul,MN,11.0,0.0,1.0
+Rasmussen College-Minnesota,StCloud,MN,13.0,2.0,2.0
+Saint Paul College,SaintPaul,MN,11.0,2.0,0.0
+Dunwoody College of Technology,Minneapolis,MN,11.0,1.0,1.0
+Jackson State University,Jackson,MS,12.0,0.0,2.0
+Millsaps College,Jackson,MS,12.0,0.0,1.0
+University of Southern Mississippi,Hattiesburg,MS,13.0,0.0,2.0
+Tougaloo College,Tougaloo,MS,12.0,1.0,1.0
+Avila University,KansasCity,MO,11.0,0.0,2.0
+Columbia College,Columbia,MO,12.0,2.0,2.0
+Drury University,Springfield,MO,12.0,2.0,2.0
+Pinnacle Career Institute-South Kansas City,KansasCity,MO,11.0,2.0,0.0
+Evangel University,Springfield,MO,12.0,1.0,2.0
+Ozarks Technical Community College,Springfield,MO,12.0,2.0,0.0
+Harris-Stowe State University,SaintLouis,MO,11.0,0.0,1.0
+Lincoln University,JeffersonCity,MO,13.0,1.0,2.0
+Lindenwood University,SaintCharles,MO,13.0,0.0,2.0
+Metropolitan Community College-Kansas City,KansasCity,MO,11.0,2.0,0.0
+Westwood College-O'Hare Airport,Chicago,IL,11.0,1.0,1.0
+Missouri Southern State University,Joplin,MO,13.0,2.0,2.0
+Missouri Tech,SaintCharles,MO,13.0,1.0,1.0
+Missouri Western State University,SaintJoseph,MO,13.0,1.0,1.0
+University of Missouri-Columbia,Columbia,MO,12.0,0.0,2.0
+University of Missouri-Kansas City,KansasCity,MO,11.0,0.0,2.0
+Everest College-Springfield,Springfield,MO,12.0,2.0,2.0
+Saint Louis University,SaintLouis,MO,11.0,0.0,2.0
+Saint Louis Community College,SaintLouis,MO,11.0,2.0,0.0
+Southeast Missouri State University,CapeGirardeau,MO,13.0,1.0,2.0
+Missouri State University-Springfield,Springfield,MO,12.0,0.0,2.0
+Montana State University-Billings,Billings,MT,12.0,2.0,2.0
+Great Falls College Montana State University,GreatFalls,MT,13.0,2.0,0.0
+University of Great Falls,GreatFalls,MT,13.0,2.0,2.0
+The University of Montana,Missoula,MT,13.0,2.0,1.0
+Rocky Mountain College,Billings,MT,12.0,1.0,1.0
+Central Community College,GrandIsland,NE,13.0,1.0,0.0
+Creighton University,Omaha,NE,11.0,1.0,1.0
+Grace University,Omaha,NE,11.0,1.0,1.0
+Kaplan University-Lincoln Campus,Lincoln,NE,11.0,2.0,2.0
+Metropolitan Community College Area,Omaha,NE,11.0,2.0,0.0
+University of Nebraska at Omaha,Omaha,NE,11.0,0.0,2.0
+Kaplan University-Omaha Campus,Omaha,NE,11.0,2.0,2.0
+Nebraska Wesleyan University,Lincoln,NE,11.0,0.0,1.0
+University of Nebraska-Lincoln,Lincoln,NE,11.0,1.0,2.0
+Southeast Community College Area,Lincoln,NE,11.0,2.0,0.0
+Union College,Lincoln,NE,11.0,1.0,1.0
+Vatterott College-Spring Valley,Omaha,NE,11.0,1.0,0.0
+Career College of Northern Nevada,Sparks,NV,12.0,1.0,0.0
+College of Southern Nevada,LasVegas,NV,11.0,2.0,1.0
+The Art Institute of Las Vegas,Henderson,NV,11.0,1.0,1.0
+University of Nevada-Las Vegas,LasVegas,NV,12.0,0.0,2.0
+University of Nevada-Reno,Reno,NV,12.0,0.0,1.0
+Morrison University,Reno,NV,12.0,1.0,1.0
+Truckee Meadows Community College,Reno,NV,12.0,2.0,0.0
+Western Nevada College,CarsonCity,NV,13.0,2.0,1.0
+Daniel Webster College,Nashua,NH,13.0,1.0,1.0
+Southern New Hampshire University,Manchester,NH,12.0,2.0,2.0
+University of New Hampshire at Manchester,Manchester,NH,12.0,1.0,1.0
+Manchester Community College,Manchester,NH,12.0,2.0,0.0
+Nashua Community College,Nashua,NH,13.0,1.0,0.0
+Rivier University,Nashua,NH,13.0,1.0,2.0
+Essex County College,Newark,NJ,11.0,1.0,0.0
+Hudson County Community College,JerseyCity,NJ,11.0,1.0,0.0
+New Jersey City University,JerseyCity,NJ,11.0,0.0,1.0
+New Jersey Institute of Technology,Newark,NJ,11.0,0.0,1.0
+Rutgers University-Camden,Camden,NJ,13.0,0.0,1.0
+Rutgers University-New Brunswick,NewBrunswick,NJ,13.0,0.0,1.0
+Rutgers University-Newark,Newark,NJ,11.0,0.0,1.0
+Saint Peter's University,JerseyCity,NJ,11.0,1.0,2.0
+Central New Mexico Community College,Albuquerque,NM,11.0,2.0,0.0
+University of New Mexico-Main Campus,Albuquerque,NM,11.0,0.0,2.0
+San Juan College,Farmington,NM,13.0,2.0,0.0
+Santa Fe University of Art and Design,SantaFe,NM,13.0,0.0,1.0
+Vaughn College of Aeronautics and Technology,Flushing,NY,11.0,2.0,2.0
+Globe Institute of Technology,NewYork,NY,11.0,1.0,1.0
+Bramson ORT College,ForestHills,NY,11.0,2.0,0.0
+Bryant & Stratton College-Syracuse,Syracuse,NY,12.0,1.0,0.0
+Bryant & Stratton College-Buffalo,Buffalo,NY,11.0,1.0,1.0
+Canisius College,Buffalo,NY,11.0,1.0,1.0
+Columbia University in the City of New York,NewYork,NY,11.0,0.0,1.0
+Cornell University,Ithaca,NY,13.0,0.0,1.0
+CUNY Bernard M Baruch College,NewYork,NY,11.0,0.0,1.0
+CUNY Borough of Manhattan Community College,NewYork,NY,11.0,2.0,0.0
+CUNY Bronx Community College,Bronx,NY,11.0,1.0,0.0
+CUNY Brooklyn College,Brooklyn,NY,11.0,0.0,1.0
+College of Staten Island CUNY,StatenIsland,NY,11.0,1.0,1.0
+CUNY City College,NewYork,NY,11.0,0.0,1.0
+CUNY Graduate School and University Center,NewYork,NY,11.0,0.0,2.0
+CUNY Hostos Community College,Bronx,NY,11.0,2.0,0.0
+CUNY Hunter College,NewYork,NY,11.0,0.0,1.0
+CUNY John Jay College of Criminal Justice,NewYork,NY,11.0,1.0,1.0
+CUNY Kingsborough Community College,Brooklyn,NY,11.0,1.0,0.0
+CUNY LaGuardia Community College,LongIslandCity,NY,11.0,1.0,0.0
+CUNY Lehman College,Bronx,NY,11.0,0.0,1.0
+CUNY Medgar Evers College,Brooklyn,NY,11.0,1.0,1.0
+CUNY New York City College of Technology,Brooklyn,NY,11.0,1.0,1.0
+CUNY Queens College,Flushing,NY,11.0,0.0,1.0
+CUNY Queensborough Community College,Bayside,NY,11.0,1.0,0.0
+CUNY York College,Jamaica,NY,11.0,0.0,1.0
+D'Youville College,Buffalo,NY,11.0,0.0,2.0
+Erie Community College,Buffalo,NY,11.0,2.0,0.0
+Fordham University,Bronx,NY,11.0,0.0,1.0
+Hudson Valley Community College,Troy,NY,13.0,2.0,0.0
+Jefferson Community College,Watertown,NY,13.0,2.0,0.0
+Le Moyne College,Syracuse,NY,12.0,0.0,1.0
+LIU Brooklyn,Brooklyn,NY,11.0,1.0,1.0
+Long Island Business Institute,Flushing,NY,11.0,1.0,0.0
+Manhattan College,Riverdale,NY,11.0,0.0,1.0
+Medaille College,Buffalo,NY,11.0,1.0,2.0
+Mildred Elley School-Albany Campus,Albany,NY,13.0,1.0,0.0
+Mohawk Valley Community College,Utica,NY,13.0,1.0,0.0
+Monroe College,Bronx,NY,11.0,2.0,2.0
+New York University,NewYork,NY,11.0,1.0,2.0
+Pace University-New York,NewYork,NY,11.0,2.0,2.0
+Polytechnic Institute of New York University,Brooklyn,NY,11.0,0.0,1.0
+Rensselaer Polytechnic Institute,Troy,NY,13.0,0.0,1.0
+University of Rochester,Rochester,NY,12.0,0.0,1.0
+The Sage Colleges,Troy,NY,13.0,2.0,1.0
+St Francis College,BrooklynHeights,NY,11.0,1.0,1.0
+The College of Saint Rose,Albany,NY,13.0,0.0,1.0
+Schenectady County Community College,Schenectady,NY,13.0,1.0,0.0
+Saint Joseph's College-New York,Brooklyn,NY,11.0,0.0,2.0
+St John's University-New York,Queens,NY,11.0,2.0,2.0
+SUNY at Albany,Albany,NY,13.0,0.0,1.0
+Buffalo State SUNY,Buffalo,NY,11.0,0.0,1.0
+Syracuse University,Syracuse,NY,12.0,1.0,2.0
+Touro College,NewYork,NY,11.0,1.0,1.0
+Trocaire College,Buffalo,NY,11.0,2.0,2.0
+Excelsior College,Albany,NY,13.0,2.0,2.0
+Union College,Schenectady,NY,13.0,0.0,1.0
+Utica College,Utica,NY,13.0,0.0,2.0
+Utica School of Commerce,Utica,NY,13.0,1.0,0.0
+School of Visual Arts,NewYork,NY,11.0,0.0,1.0
+Wagner College,StatenIsland,NY,11.0,0.0,1.0
+The College of Westchester,WhitePlains,NY,13.0,2.0,2.0
+Wood Tobe-Coburn School,NewYork,NY,11.0,1.0,0.0
+Yeshiva University,NewYork,NY,11.0,1.0,1.0
+The Art Institute of Charlotte,Charlotte,NC,11.0,1.0,1.0
+Asheville-Buncombe Technical Community College,Asheville,NC,13.0,2.0,0.0
+Cape Fear Community College,Wilmington,NC,12.0,2.0,0.0
+Catawba Valley Community College,Hickory,NC,13.0,2.0,0.0
+Central Piedmont Community College,Charlotte,NC,11.0,2.0,0.0
+Coastal Carolina Community College,Jacksonville,NC,13.0,2.0,0.0
+Craven Community College,NewBern,NC,13.0,2.0,0.0
+Duke University,Durham,NC,12.0,0.0,1.0
+Durham Technical Community College,Durham,NC,12.0,1.0,0.0
+East Carolina University,Greenville,NC,13.0,0.0,2.0
+Fayetteville Technical Community College,Fayetteville,NC,12.0,2.0,0.0
+Fayetteville State University,Fayetteville,NC,12.0,0.0,2.0
+Forsyth Technical Community College,WinstonSalem,NC,12.0,2.0,0.0
+Guilford College,Greensboro,NC,11.0,0.0,1.0
+High Point University,HighPoint,NC,12.0,0.0,1.0
+Johnson C Smith University,Charlotte,NC,11.0,0.0,1.0
+Lenoir-Rhyne University,Hickory,NC,13.0,0.0,1.0
+Methodist University,Fayetteville,NC,12.0,1.0,1.0
+Miller-Motte College-Wilmington,Wilmington,NC,12.0,2.0,2.0
+North Carolina A & T State University,Greensboro,NC,11.0,0.0,2.0
+University of North Carolina at Asheville,Asheville,NC,13.0,0.0,1.0
+University of North Carolina at Chapel Hill,ChapelHill,NC,13.0,0.0,2.0
+University of North Carolina at Charlotte,Charlotte,NC,11.0,0.0,2.0
+University of North Carolina at Greensboro,Greensboro,NC,11.0,0.0,2.0
+North Carolina Central University,Durham,NC,12.0,0.0,2.0
+North Carolina State University at Raleigh,Raleigh,NC,11.0,1.0,2.0
+North Carolina Wesleyan College,RockyMount,NC,13.0,0.0,1.0
+University of North Carolina Wilmington,Wilmington,NC,12.0,0.0,2.0
+Queens University of Charlotte,Charlotte,NC,11.0,1.0,1.0
+Saint Augustine's University,Raleigh,NC,11.0,0.0,1.0
+Shaw University,Raleigh,NC,11.0,1.0,1.0
+Wake Forest University,WinstonSalem,NC,12.0,0.0,1.0
+Wayne Community College,Goldsboro,NC,13.0,2.0,0.0
+Western Piedmont Community College,Morganton,NC,13.0,2.0,0.0
+Winston-Salem State University,Winston-Salem,NC,12.0,0.0,2.0
+Rasmussen College-North Dakota,Fargo,ND,12.0,2.0,2.0
+Bismarck State College,Bismarck,ND,13.0,2.0,2.0
+University of North Dakota,GrandForks,ND,13.0,0.0,2.0
+North Dakota State University-Main Campus,Fargo,ND,12.0,0.0,2.0
+University of Akron Main Campus,Akron,OH,12.0,1.0,2.0
+Antonelli College-Cincinnati,Cincinnati,OH,11.0,2.0,0.0
+Case Western Reserve University,Cleveland,OH,11.0,0.0,1.0
+University of Cincinnati-Main Campus,Cincinnati,OH,11.0,2.0,2.0
+Cincinnati State Technical and Community College,Cincinnati,OH,11.0,2.0,0.0
+Clark State Community College,Springfield,OH,13.0,2.0,0.0
+Cleveland State University,Cleveland,OH,11.0,0.0,2.0
+Columbus State Community College,Columbus,OH,11.0,2.0,0.0
+Cuyahoga Community College District,Cleveland,OH,11.0,1.0,0.0
+Davis College,Toledo,OH,11.0,1.0,0.0
+University of Dayton,Dayton,OH,12.0,0.0,1.0
+Bryant & Stratton College-Cleveland,Cleveland,OH,11.0,1.0,1.0
+Franklin University,Columbus,OH,11.0,2.0,2.0
+Eastern Gateway Community College,Steubenville,OH,13.0,2.0,0.0
+Lorain County Community College,Elyria,OH,13.0,2.0,0.0
+Malone University,Canton,OH,13.0,0.0,2.0
+University of Northwestern Ohio,Lima,OH,13.0,2.0,2.0
+Ohio Dominican University,Columbus,OH,11.0,1.0,1.0
+Ohio State University-Main Campus,Columbus,OH,11.0,0.0,2.0
+Sinclair Community College,Dayton,OH,12.0,2.0,0.0
+Brown Mackie College-Akron,Akron,OH,12.0,1.0,1.0
+Lincoln College of Technology-Dayton,Dayton,OH,12.0,1.0,0.0
+Franciscan University of Steubenville,Steubenville,OH,13.0,1.0,1.0
+University of Toledo,Toledo,OH,11.0,2.0,2.0
+Wittenberg University,Springfield,OH,13.0,0.0,1.0
+Xavier University,Cincinnati,OH,11.0,1.0,1.0
+ITT Technical Institute-Youngstown,Youngstown,OH,13.0,1.0,1.0
+Youngstown State University,Youngstown,OH,13.0,1.0,2.0
+Cameron University,Lawton,OK,13.0,2.0,2.0
+Oklahoma Christian University,Edmond,OK,11.0,0.0,1.0
+Oklahoma State University-Oklahoma City,OklahomaCity,OK,11.0,2.0,1.0
+Oklahoma City Community College,OklahomaCity,OK,11.0,2.0,0.0
+Oklahoma City University,OklahomaCity,OK,11.0,0.0,1.0
+Oral Roberts University,Tulsa,OK,11.0,0.0,2.0
+Tulsa Community College,Tulsa,OK,11.0,2.0,0.0
+University of Tulsa,Tulsa,OK,11.0,0.0,1.0
+The Art Institute of Portland,Portland,OR,11.0,1.0,1.0
+Central Oregon Community College,Bend,OR,13.0,1.0,0.0
+ITT Technical Institute-Portland,Portland,OR,11.0,1.0,1.0
+Lewis & Clark College,Portland,OR,11.0,0.0,1.0
+Linn-Benton Community College,Albany,OR,13.0,2.0,0.0
+Northwest Christian University,Eugene,OR,12.0,1.0,2.0
+Oregon State University,Corvallis,OR,13.0,0.0,2.0
+University of Oregon,Eugene,OR,12.0,0.0,1.0
+Portland Community College,Portland,OR,11.0,2.0,0.0
+Portland State University,Portland,OR,11.0,0.0,2.0
+University of Portland,Portland,OR,11.0,0.0,1.0
+Everest College-Portland,Portland,OR,11.0,2.0,0.0
+Willamette University,Salem,OR,12.0,0.0,1.0
+Albright College,Reading,PA,13.0,0.0,1.0
+Community College of Allegheny County,Pittsburgh,PA,11.0,1.0,0.0
+Alvernia University,Reading,PA,13.0,1.0,1.0
+The Art Institute of Philadelphia,Philadelphia,PA,11.0,1.0,1.0
+The Art Institute of Pittsburgh,Pittsburgh,PA,11.0,1.0,1.0
+Bloomsburg University of Pennsylvania,Bloomsburg,PA,13.0,0.0,1.0
+Bradford School,Pittsburgh,PA,11.0,1.0,0.0
+Carnegie Mellon University,Pittsburgh,PA,11.0,0.0,1.0
+Chestnut Hill College,Philadelphia,PA,11.0,1.0,1.0
+Kaplan Career Institute-Franklin Mills,Philadelphia,PA,11.0,1.0,0.0
+Consolidated School of Business-York,York,PA,13.0,1.0,0.0
+Dickinson College,Carlisle,PA,13.0,0.0,1.0
+Drexel University,Philadelphia,PA,11.0,1.0,2.0
+Duquesne University,Pittsburgh,PA,11.0,0.0,2.0
+East Stroudsburg University of Pennsylvania,EastStroudsburg,PA,13.0,0.0,1.0
+Erie Business Center-Erie,Erie,PA,12.0,2.0,0.0
+Franklin and Marshall College,Lancaster,PA,13.0,0.0,1.0
+Gannon University,Erie,PA,12.0,1.0,2.0
+Harrisburg Area Community College-Harrisburg,Harrisburg,PA,13.0,2.0,0.0
+Kaplan Career Institute-Pittsburgh,Pittsburgh,PA,11.0,1.0,0.0
+Johnson College,Scranton,PA,13.0,1.0,0.0
+King's College,Wilkes-Barre,PA,13.0,1.0,1.0
+La Salle University,Philadelphia,PA,11.0,1.0,2.0
+Lackawanna College,Scranton,PA,13.0,1.0,0.0
+Lehigh University,Bethlehem,PA,13.0,0.0,1.0
+Lycoming College,Williamsport,PA,13.0,0.0,1.0
+Marywood University,Scranton,PA,13.0,0.0,1.0
+Mercyhurst University,Erie,PA,12.0,0.0,1.0
+Moravian College,Bethlehem,PA,13.0,0.0,1.0
+Muhlenberg College,Allentown,PA,12.0,1.0,1.0
+Kaplan Career Institute-Philadelphia,Philadelphia,PA,11.0,1.0,0.0
+Pennsylvania State University-Penn State Altoona,Altoona,PA,13.0,2.0,2.0
+Pennsylvania State University-Main Campus,UniversityPark,PA,13.0,2.0,2.0
+Pace Institute,Reading,PA,13.0,1.0,0.0
+Peirce College,Philadelphia,PA,11.0,2.0,2.0
+University of Pennsylvania,Philadelphia,PA,11.0,1.0,1.0
+Philadelphia University,Philadelphia,PA,11.0,1.0,2.0
+University of the Sciences,Philadelphia,PA,11.0,0.0,1.0
+Community College of Philadelphia,Philadelphia,PA,11.0,2.0,0.0
+University of Pittsburgh-Pittsburgh Campus,Pittsburgh,PA,11.0,0.0,1.0
+Point Park University,Pittsburgh,PA,11.0,2.0,2.0
+Reading Area Community College,Reading,PA,13.0,2.0,0.0
+Saint Joseph's University,Philadelphia,PA,11.0,2.0,2.0
+University of Scranton,Scranton,PA,13.0,1.0,1.0
+South Hills School of Business & Technology,StateCollege,PA,13.0,1.0,0.0
+Thaddeus Stevens College of Technology,Lancaster,PA,13.0,1.0,0.0
+Temple University,Philadelphia,PA,11.0,1.0,2.0
+Wilkes University,Wilkes-Barre,PA,13.0,0.0,1.0
+Brown University,Providence,RI,12.0,0.0,1.0
+Johnson & Wales University-Providence,Providence,RI,12.0,1.0,1.0
+Providence College,Providence,RI,12.0,1.0,1.0
+Community College of Rhode Island,Warwick,RI,13.0,1.0,0.0
+Charleston Southern University,Charleston,SC,13.0,0.0,2.0
+Benedict College,Columbia,SC,12.0,0.0,1.0
+Bob Jones University,Greenville,SC,13.0,2.0,2.0
+College of Charleston,Charleston,SC,12.0,0.0,1.0
+Citadel Military College of South Carolina,Charleston,SC,12.0,0.0,1.0
+Forrest College,Anderson,SC,13.0,1.0,0.0
+Greenville Technical College,Greenville,SC,13.0,1.0,0.0
+Horry-Georgetown Technical College,Conway,SC,13.0,2.0,0.0
+University of South Carolina-Columbia,Columbia,SC,12.0,1.0,1.0
+Coastal Carolina University,Conway,SC,13.0,0.0,2.0
+Central Carolina Technical College,Sumter,SC,13.0,1.0,0.0
+Trident Technical College,Charleston,SC,13.0,2.0,0.0
+Winthrop University,RockHill,SC,13.0,0.0,1.0
+Wofford College,Spartanburg,SC,13.0,0.0,1.0
+York Technical College,RockHill,SC,13.0,1.0,0.0
+Augustana College,SiouxFalls,SD,12.0,0.0,1.0
+Kilian Community College,SiouxFalls,SD,12.0,1.0,0.0
+National American University-Rapid City,RapidCity,SD,13.0,2.0,2.0
+South Dakota School of Mines and Technology,RapidCity,SD,13.0,1.0,1.0
+University of Sioux Falls,SiouxFalls,SD,12.0,1.0,2.0
+Austin Peay State University,Clarksville,TN,12.0,1.0,2.0
+Belmont University,Nashville,TN,11.0,0.0,1.0
+Chattanooga State Community College,Chattanooga,TN,12.0,2.0,0.0
+Christian Brothers University,Memphis,TN,11.0,0.0,1.0
+Cleveland State Community College,Cleveland,TN,13.0,1.0,0.0
+Lipscomb University,Nashville,TN,11.0,0.0,1.0
+Daymar Institute-Nashville,Nashville,TN,11.0,1.0,1.0
+East Tennessee State University,JohnsonCity,TN,13.0,0.0,2.0
+Chattanooga College Medical Dental and Technical Careers,Chattanooga,TN,12.0,1.0,0.0
+Fisk University,Nashville,TN,11.0,0.0,1.0
+Jackson State Community College,Jackson,TN,13.0,1.0,0.0
+King University,Bristol,TN,13.0,2.0,2.0
+South College,Knoxville,TN,12.0,2.0,2.0
+Lane College,Jackson,TN,13.0,0.0,1.0
+Le Moyne-Owen College,Memphis,TN,11.0,0.0,1.0
+Lee University,Cleveland,TN,13.0,0.0,2.0
+University of Memphis,Memphis,TN,11.0,0.0,2.0
+Middle Tennessee State University,Murfreesboro,TN,12.0,0.0,2.0
+Nashville State Community College,Nashville,TN,11.0,2.0,0.0
+Rhodes College,Memphis,TN,11.0,0.0,1.0
+Southwest Tennessee Community College,Memphis,TN,11.0,2.0,0.0
+The University of Tennessee-Chattanooga,Chattanooga,TN,12.0,0.0,2.0
+The University of Tennessee-Knoxville,Knoxville,TN,12.0,0.0,2.0
+Fountainhead College of Technology,Knoxville,TN,12.0,2.0,2.0
+Tennessee State University,Nashville,TN,11.0,1.0,2.0
+Tennessee Temple University,Chattanooga,TN,12.0,2.0,2.0
+Trevecca Nazarene University,Nashville,TN,11.0,1.0,1.0
+Union University,Jackson,TN,13.0,1.0,1.0
+Vanderbilt University,Nashville,TN,11.0,0.0,1.0
+Walters State Community College,Morristown,TN,13.0,2.0,0.0
+Abilene Christian University,Abilene,TX,12.0,1.0,1.0
+Amarillo College,Amarillo,TX,12.0,2.0,0.0
+Angelo State University,SanAngelo,TX,13.0,1.0,2.0
+The Art Institute of Houston,Houston,TX,11.0,1.0,1.0
+Austin College,Sherman,TX,13.0,0.0,1.0
+Austin Community College District,Austin,TX,11.0,2.0,0.0
+Baylor University,Waco,TX,12.0,0.0,1.0
+Central Texas College,Killeen,TX,12.0,2.0,0.0
+Concordia University-Texas,Austin,TX,11.0,1.0,2.0
+Texas A & M University-Corpus Christi,CorpusChristi,TX,11.0,0.0,2.0
+Dallas Baptist University,Dallas,TX,11.0,1.0,2.0
+University of Dallas,Irving,TX,12.0,0.0,1.0
+El Centro College,Dallas,TX,11.0,1.0,0.0
+El Paso Community College,ElPaso,TX,11.0,2.0,0.0
+Western Technical College,ElPaso,TX,11.0,1.0,0.0
+South University-The Art Institute of Dallas,Dallas,TX,11.0,1.0,1.0
+Hallmark College,SanAntonio,TX,11.0,1.0,1.0
+Hardin-Simmons University,Abilene,TX,12.0,0.0,1.0
+Houston Community College,Houston,TX,11.0,2.0,0.0
+University of Houston-Downtown,Houston,TX,11.0,0.0,2.0
+University of Houston-Victoria,Victoria,TX,13.0,0.0,2.0
+University of Houston,Houston,TX,11.0,0.0,1.0
+Huston-Tillotson University,Austin,TX,11.0,0.0,1.0
+University of the Incarnate Word,SanAntonio,TX,11.0,2.0,2.0
+International Business College-El Paso,ElPaso,TX,11.0,1.0,0.0
+ITT Technical Institute-Arlington,Arlington,TX,11.0,1.0,1.0
+ITT Technical Institute-Houston West,Houston,TX,11.0,1.0,1.0
+Lamar University,Beaumont,TX,12.0,1.0,2.0
+Lamar State College-Port Arthur,PortArthur,TX,13.0,2.0,0.0
+Laredo Community College,Laredo,TX,12.0,1.0,0.0
+Lee College,Baytown,TX,13.0,1.0,0.0
+LeTourneau University,Longview,TX,13.0,2.0,2.0
+Lubbock Christian University,Lubbock,TX,12.0,1.0,2.0
+McLennan Community College,Waco,TX,12.0,1.0,0.0
+McMurry University,Abilene,TX,12.0,0.0,1.0
+Midland College,Midland,TX,12.0,2.0,1.0
+Midwestern State University,WichitaFalls,TX,12.0,1.0,2.0
+Mountain View College,Dallas,TX,11.0,1.0,0.0
+Lone Star College System,TheWoodlands,TX,13.0,2.0,0.0
+North Lake College,Irving,TX,12.0,1.0,0.0
+University of North Texas,Denton,TX,12.0,0.0,2.0
+Odessa College,Odessa,TX,12.0,2.0,0.0
+Our Lady of the Lake University,SanAntonio,TX,11.0,0.0,2.0
+The University of Texas-Pan American,Edinburg,TX,13.0,0.0,1.0
+The University of Texas at Brownsville,Brownsville,TX,12.0,1.0,2.0
+Paul Quinn College,Dallas,TX,11.0,0.0,2.0
+Rice University,Houston,TX,11.0,0.0,1.0
+Richland College,Dallas,TX,11.0,1.0,0.0
+Kaplan College-McAllen,McAllen,TX,12.0,1.0,0.0
+Saint Edward's University,Austin,TX,11.0,0.0,1.0
+St Philip's College,SanAntonio,TX,11.0,2.0,0.0
+San Antonio College,SanAntonio,TX,11.0,2.0,0.0
+St Mary's University,SanAntonio,TX,11.0,0.0,1.0
+Tarrant County College District,FortWorth,TX,11.0,1.0,0.0
+Temple College,Temple,TX,13.0,2.0,0.0
+Texas State Technical College-Waco,Waco,TX,12.0,2.0,0.0
+Texarkana College,Texarkana,TX,13.0,1.0,0.0
+Texas A & M University-College Station,CollegeStation,TX,13.0,0.0,2.0
+The University of Texas at Arlington,Arlington,TX,11.0,0.0,2.0
+The University of Texas at Austin,Austin,TX,11.0,0.0,1.0
+The University of Texas at Dallas,Richardson,TX,12.0,0.0,1.0
+The University of Texas at El Paso,ElPaso,TX,11.0,0.0,2.0
+The University of Texas at Tyler,Tyler,TX,13.0,0.0,2.0
+Texas Christian University,FortWorth,TX,11.0,0.0,1.0
+Texas College,Tyler,TX,13.0,1.0,1.0
+The University of Texas of the Permian Basin,Odessa,TX,12.0,0.0,2.0
+The University of Texas at San Antonio,SanAntonio,TX,11.0,0.0,1.0
+Texas Southern University,Houston,TX,11.0,0.0,1.0
+Texas Tech University,Lubbock,TX,12.0,0.0,2.0
+Texas Wesleyan University,FortWorth,TX,11.0,0.0,1.0
+Texas Woman's University,Denton,TX,12.0,0.0,2.0
+Trinity University,SanAntonio,TX,11.0,0.0,1.0
+Texas State Technical College-Harlingen,Harlingen,TX,13.0,1.0,0.0
+Tyler Junior College,Tyler,TX,13.0,2.0,0.0
+Victoria College,Victoria,TX,13.0,1.0,0.0
+Brigham Young University-Provo,Provo,UT,12.0,0.0,2.0
+Dixie State University,SaintGeorge,UT,13.0,2.0,1.0
+Latter-day Saints Business College,SaltLakeCity,UT,12.0,1.0,0.0
+Stevens-Henager College of Business-Provo,Orem,UT,13.0,1.0,1.0
+Utah State University,Logan,UT,13.0,2.0,2.0
+Utah Valley University,Orem,UT,13.0,2.0,1.0
+University of Utah,SaltLakeCity,UT,12.0,0.0,2.0
+Weber State University,Ogden,UT,13.0,2.0,2.0
+Westminster College,SaltLakeCity,UT,12.0,0.0,1.0
+Champlain College,Burlington,VT,13.0,2.0,2.0
+University of Vermont,Burlington,VT,13.0,0.0,1.0
+Regent University,VirginiaBeach,VA,11.0,2.0,2.0
+Central Virginia Community College,Lynchburg,VA,13.0,2.0,0.0
+Christopher Newport University,NewportNews,VA,12.0,0.0,1.0
+Bryant & Stratton College-Virginia Beach,VirginiaBeach,VA,11.0,1.0,1.0
+Centura College-Virginia Beach,VirginiaBeach,VA,11.0,2.0,2.0
+Eastern Mennonite University,Harrisonburg,VA,13.0,1.0,1.0
+Hampton University,Hampton,VA,12.0,2.0,2.0
+James Madison University,Harrisonburg,VA,13.0,0.0,1.0
+Liberty University,Lynchburg,VA,13.0,2.0,2.0
+Lynchburg College,Lynchburg,VA,13.0,0.0,1.0
+Marymount University,Arlington,VA,12.0,0.0,1.0
+Norfolk State University,Norfolk,VA,12.0,1.0,2.0
+Old Dominion University,Norfolk,VA,12.0,0.0,2.0
+Miller-Motte Technical College-Lynchburg,Lynchburg,VA,13.0,1.0,0.0
+Radford University,Radford,VA,13.0,0.0,1.0
+Fortis College-Norfolk,Norfolk,VA,12.0,1.0,0.0
+University of Richmond,UniversityofRichmond,VA,12.0,1.0,1.0
+Shenandoah University,Winchester,VA,13.0,0.0,2.0
+Strayer University-Virginia,Arlington,VA,12.0,2.0,2.0
+Thomas Nelson Community College,Hampton,VA,12.0,2.0,0.0
+Tidewater Community College,Norfolk,VA,12.0,2.0,0.0
+Virginia Polytechnic Institute and State University,Blacksburg,VA,13.0,1.0,1.0
+Virginia Western Community College,Roanoke,VA,13.0,1.0,0.0
+Virginia Commonwealth University,Richmond,VA,12.0,0.0,2.0
+University of Virginia-Main Campus,Charlottesville,VA,13.0,0.0,2.0
+Virginia Union University,Richmond,VA,12.0,0.0,1.0
+The Art Institute of Seattle,Seattle,WA,11.0,1.0,1.0
+Bellevue College,Bellevue,WA,12.0,2.0,1.0
+Bellingham Technical College,Bellingham,WA,13.0,1.0,0.0
+City University of Seattle,Seattle,WA,11.0,2.0,2.0
+Clark College,Vancouver,WA,12.0,2.0,0.0
+Clover Park Technical College,Lakewood,WA,13.0,1.0,0.0
+Everett Community College,Everett,WA,12.0,1.0,0.0
+Pierce College at Fort Steilacoom,Lakewood,WA,13.0,1.0,0.0
+Gonzaga University,Spokane,WA,12.0,0.0,1.0
+Green River Community College,Auburn,WA,13.0,1.0,0.0
+Interface College-Spokane,Spokane,WA,12.0,1.0,0.0
+ITT Technical Institute-Spokane Valley,SpokaneValley,WA,13.0,1.0,1.0
+Bates Technical College,Tacoma,WA,12.0,1.0,0.0
+Lower Columbia College,Longview,WA,13.0,1.0,0.0
+Seattle Community College-North Campus,Seattle,WA,11.0,2.0,0.0
+Olympic College,Bremerton,WA,13.0,2.0,1.0
+University of Puget Sound,Tacoma,WA,12.0,0.0,1.0
+Renton Technical College,Renton,WA,13.0,2.0,0.0
+Seattle Community College-South Campus,Seattle,WA,11.0,2.0,1.0
+Seattle Central College,Seattle,WA,11.0,2.0,1.0
+Seattle Pacific University,Seattle,WA,11.0,0.0,1.0
+Seattle University,Seattle,WA,11.0,0.0,1.0
+Skagit Valley College,MountVernon,WA,13.0,1.0,0.0
+South Puget Sound Community College,Olympia,WA,13.0,2.0,0.0
+Spokane Community College,Spokane,WA,12.0,2.0,0.0
+Spokane Falls Community College,Spokane,WA,12.0,2.0,0.0
+Tacoma Community College,Tacoma,WA,12.0,1.0,0.0
+Walla Walla Community College,WallaWalla,WA,13.0,1.0,0.0
+University of Washington-Seattle Campus,Seattle,WA,11.0,0.0,1.0
+Wenatchee Valley College,Wenatchee,WA,13.0,1.0,0.0
+Western Washington University,Bellingham,WA,13.0,0.0,2.0
+Whatcom Community College,Bellingham,WA,13.0,2.0,0.0
+Yakima Valley Community College,Yakima,WA,13.0,1.0,0.0
+University of Charleston,Charleston,WV,13.0,1.0,2.0
+Marshall University,Huntington,WV,13.0,1.0,2.0
+Mountain State College,Parkersburg,WV,13.0,2.0,0.0
+West Virginia Business College-Wheeling,Wheeling,WV,13.0,1.0,0.0
+West Virginia Junior College-Charleston,Charleston,WV,13.0,1.0,0.0
+West Virginia Junior College-Morgantown,Morgantown,WV,13.0,1.0,0.0
+West Virginia Northern Community College,Wheeling,WV,13.0,1.0,0.0
+West Virginia University,Morgantown,WV,13.0,0.0,2.0
+Wheeling Jesuit University,Wheeling,WV,13.0,0.0,2.0
+Madison Area Technical College,Madison,WI,12.0,2.0,0.0
+Beloit College,Beloit,WI,13.0,0.0,1.0
+Carroll University,Waukesha,WI,13.0,0.0,1.0
+Edgewood College,Madison,WI,12.0,0.0,1.0
+Marian University,FondDuLac,WI,13.0,0.0,2.0
+Marquette University,Milwaukee,WI,11.0,0.0,1.0
+Milwaukee Area Technical College,Milwaukee,WI,11.0,2.0,0.0
+Moraine Park Technical College,FondduLac,WI,13.0,2.0,0.0
+Northcentral Technical College,Wausau,WI,13.0,2.0,0.0
+Northeast Wisconsin Technical College,GreenBay,WI,12.0,2.0,0.0
+Bryant & Stratton College-Milwaukee,Milwaukee,WI,11.0,1.0,1.0
+Viterbo University,LaCrosse,WI,13.0,2.0,2.0
+Chippewa Valley Technical College,EauClaire,WI,13.0,1.0,0.0
+Western Technical College,LaCrosse,WI,13.0,2.0,0.0
+University of Wisconsin-Eau Claire,EauClaire,WI,13.0,1.0,2.0
+University of Wisconsin-Green Bay,GreenBay,WI,12.0,2.0,2.0
+University of Wisconsin-La Crosse,LaCrosse,WI,13.0,1.0,1.0
+Wisconsin Lutheran College,Milwaukee,WI,11.0,0.0,2.0
+University of Wisconsin-Oshkosh,Oshkosh,WI,13.0,0.0,2.0
+Herzing University-Madison,Madison,WI,12.0,2.0,2.0
+University of Wisconsin-Madison,Madison,WI,12.0,0.0,2.0
+University of Wisconsin-Milwaukee,Milwaukee,WI,11.0,0.0,2.0
+Casper College,Casper,WY,13.0,2.0,0.0
+Atlantic University College,Guaynabo,PR,13.0,1.0,1.0
+Columbia Centro Universitario-Caguas,Caguas,PR,13.0,1.0,2.0
+Pontifical Catholic University of Puerto Rico-Ponce,Ponce,PR,12.0,1.0,1.0
+Colegio Universitario de San Juan,SanJuan,PR,11.0,1.0,1.0
+Universidad Metropolitana,Cupey,PR,11.0,1.0,1.0
+Huertas College,Caguas,PR,13.0,1.0,0.0
+ICPR Junior College-Arecibo,Arecibo,PR,13.0,1.0,0.0
+ICPR Junior College-Mayaguez,Mayaguez,PR,13.0,1.0,0.0
+Instituto de Banca y Comercio Inc,Guaynabo,PR,13.0,1.0,0.0
+Instituto Tecnologico de Puerto Rico-Recinto de Guayama,Guayama,PR,13.0,1.0,0.0
+Instituto Tecnologico de Puerto Rico-Recinto de Ponce,Ponce,PR,12.0,1.0,0.0
+Instituto Tecnologico de Puerto Rico-Recinto de San Juan,SanJuan,PR,11.0,1.0,0.0
+Inter American University of Puerto Rico-San German,SanGerman,PR,13.0,1.0,1.0
+Inter American University of Puerto Rico-Arecibo,Arecibo,PR,13.0,1.0,2.0
+Inter American University of Puerto Rico-Metro,SanJuan,PR,11.0,2.0,2.0
+Inter American University of Puerto Rico-Guayama,Guayama,PR,13.0,2.0,1.0
+National University College-Arecibo,Arecibo,PR,13.0,1.0,1.0
+University of Puerto Rico-Arecibo,Arecibo,PR,13.0,1.0,1.0
+University of Puerto Rico-Mayaguez,Mayaguez,PR,13.0,0.0,2.0
+University of Puerto Rico-Ponce,Ponce,PR,12.0,1.0,1.0
+University of Puerto Rico-Rio Piedras,SanJuan,PR,11.0,0.0,1.0
+Universidad Del Este,Carolina,PR,12.0,1.0,1.0
+Universidad del Sagrado Corazon,Santurce,PR,11.0,1.0,1.0
+Universidad Politecnica de Puerto Rico,HatoRey,PR,11.0,0.0,1.0
+Pontifical Catholic University of Puerto Rico-Mayaguez,Mayaguez,PR,13.0,1.0,1.0
+EDP Univeristy of Puerto Rico Inc-San Juan,SanJuan,PR,11.0,1.0,1.0
+ICPR Junior College-General Institutional,HatoRey,PR,11.0,1.0,0.0
+ITT Technical Institute-Sylmar,Sylmar,CA,11.0,1.0,1.0
+Kaplan College-El Paso,ElPaso,TX,11.0,1.0,0.0
+Palo Alto College,SanAntonio,TX,11.0,2.0,0.0
+Athens Technical College,Athens,GA,12.0,1.0,0.0
+National American University-Albuquerque,Albuquerque,NM,11.0,2.0,2.0
+ECPI University,VirginiaBeach,VA,11.0,2.0,2.0
+Kaplan University-Davenport Campus,Davenport,IA,12.0,2.0,2.0
+Kaplan University-Cedar Falls Campus,CedarFalls,IA,13.0,2.0,2.0
+ITT Technical Institute-Arlington Heights,ArlingtonHeights,IL,13.0,1.0,1.0
+ITT Technical Institute-Troy,Troy,MI,13.0,1.0,1.0
+Skyline College-Roanoke,Roanoke,VA,13.0,1.0,1.0
+Brandman University,Irvine,CA,12.0,2.0,2.0
+Heald College-Roseville,Roseville,CA,12.0,1.0,0.0
+Daymar College-Bowling Green,BowlingGreen,KY,13.0,1.0,1.0
+University of Advancing Technology,Tempe,AZ,12.0,2.0,2.0
+Paradise Valley Community College,Phoenix,AZ,11.0,1.0,0.0
+Kaplan College-San Antonio-San Pedro,SanAntonio,TX,11.0,1.0,0.0
+The Art Institute of New York City,NewYork,NY,11.0,1.0,0.0
+Vista College,ElPaso,TX,11.0,2.0,0.0
+Pennsylvania College of Technology,Williamsport,PA,13.0,1.0,2.0
+InterCoast Colleges-Orange,Orange,CA,12.0,2.0,0.0
+Remington College-Mobile Campus,Mobile,AL,12.0,1.0,0.0
+Southwest Florida College,FortMyers,FL,13.0,2.0,2.0
+ITT Technical Institute-Knoxville,Knoxville,TN,12.0,1.0,1.0
+ITT Technical Institute-Austin,Austin,TX,11.0,1.0,1.0
+Argosy University-Hawaii,Honolulu,HI,11.0,1.0,1.0
+Career Technical College-Monroe,Monroe,LA,13.0,1.0,0.0
+Interactive Learning Systems-Houston,Houston,TX,11.0,1.0,0.0
+NorthWest Arkansas Community College,Bentonville,AR,13.0,2.0,0.0
+Daymar Institute-Clarksville,Clarksville,TN,12.0,1.0,1.0
+ITT Technical Institute-Norfolk,Norfolk,VA,12.0,1.0,1.0
+Los Angeles ORT College-Los Angeles Campus,LosAngeles,CA,11.0,1.0,0.0
+ITT Technical Institute-Albuquerque,Albuquerque,NM,11.0,1.0,1.0
+Bryan University,Springfield,MO,12.0,2.0,2.0
+Heald College-Stockton,Stockton,CA,11.0,1.0,0.0
+Heald College-Hayward,Hayward,CA,12.0,1.0,0.0
+University of Phoenix-Online Campus,Phoenix,AZ,11.0,2.0,2.0
+University of Phoenix-San Diego Campus,SanDiego,CA,11.0,2.0,2.0
+Remington College-Honolulu Campus,Honolulu,HI,11.0,1.0,1.0
+Vatterott College-Des Moines,DesMoines,IA,12.0,1.0,0.0
+Kaplan College-Las Vegas,LasVegas,NV,11.0,1.0,0.0
+YTI Career Institute-Altoona,Altoona,PA,13.0,1.0,0.0
+ITT Technical Institute-San Antonio,SanAntonio,TX,11.0,1.0,1.0
+Remington College-Fort Worth Campus,FortWorth,TX,11.0,1.0,0.0
+Vista College-Online,Clearfield,UT,13.0,2.0,0.0
+Centura College-Newport News,NewportNews,VA,12.0,1.0,0.0
+University of Washington-Tacoma Campus,Tacoma,WA,12.0,0.0,1.0
+ITT Technical Institute-Torrance,Torrance,CA,11.0,1.0,1.0
+Provo College,Provo,UT,12.0,1.0,0.0
+Westwood College-Denver South,Denver,CO,11.0,1.0,1.0
+ITT Technical Institute-San Bernardino,SanBernardino,CA,12.0,1.0,1.0
+King's College,Charlotte,NC,11.0,1.0,0.0
+Miller-Motte Technical College-Clarksville,Clarksville,TN,12.0,1.0,0.0
+Antonelli College-Hattiesburg,Hattiesburg,MS,13.0,2.0,0.0
+University of the Potomac-Washington DC Campus,Washington,DC,11.0,2.0,2.0
+Fortis Institute-Scranton,Scranton,PA,13.0,1.0,0.0
+National College-Nashville,Nashville,TN,11.0,1.0,0.0
+Chicago ORT Technical Institute,Skokie,IL,13.0,1.0,0.0
+Wyotech-Long Beach,LongBeach,CA,11.0,1.0,0.0
+Santiago Canyon College,Orange,CA,12.0,2.0,0.0
+Southern California Institute of Technology,Anaheim,CA,11.0,1.0,1.0
+Colorado Technical University-Sioux Falls,SiouxFalls,SD,12.0,1.0,1.0
+Vatterott College-Springfield,Springfield,MO,12.0,1.0,0.0
+Vatterott College-Joplin,Joplin,MO,13.0,1.0,0.0
+Vatterott College-Kansas City,KansasCity,MO,11.0,1.0,0.0
+ASA College,Brooklyn,NY,11.0,1.0,0.0
+University of Phoenix-Southern Arizona Campus,Tucson,AZ,11.0,0.0,2.0
+University of Phoenix-Albuquerque Campus,Albuquerque,NM,11.0,0.0,2.0
+University of Phoenix-Bay Area Campus,SanJose,CA,11.0,0.0,2.0
+University of Phoenix-Southern California Campus,CostaMesa,CA,12.0,0.0,2.0
+Wright Career College,OverlandPark,KS,12.0,2.0,0.0
+Daymar College-Louisville,Louisville,KY,11.0,1.0,1.0
+Arizona State University-West,Glendale,AZ,11.0,0.0,1.0
+ITT Technical Institute-Jacksonville,Jacksonville,FL,11.0,1.0,1.0
+ITT Technical Institute-Omaha,Omaha,NE,11.0,1.0,1.0
+Brown Mackie College-Fort Wayne,FortWayne,IN,11.0,1.0,1.0
+South Texas College,McAllen,TX,12.0,2.0,1.0
+The Art Institute of California-Argosy University Hollywood,NorthHollywood,CA,11.0,1.0,1.0
+Remington College-Memphis Campus,Memphis,TN,11.0,1.0,1.0
+Capella University,Minneapolis,MN,11.0,0.0,2.0
+ITT Technical Institute-Little Rock,LittleRock,AR,12.0,1.0,1.0
+ITT Technical Institute-Oxnard,Oxnard,CA,12.0,1.0,1.0
+ITT Technical Institute-Greenville,Greenville,SC,13.0,1.0,1.0
+Mech-Tech College,Caguas,PR,13.0,1.0,0.0
+ITT Technical Institute-Everett,Everett,WA,12.0,1.0,1.0
+University of Phoenix-Sacramento Valley Campus,Sacramento,CA,11.0,0.0,2.0
+Everest University-Melbourne,Melbourne,FL,13.0,2.0,2.0
+University of Phoenix-Hawaii Campus,Honolulu,HI,11.0,0.0,2.0
+Virginia College-Birmingham,Birmingham,AL,12.0,2.0,2.0
+Virginia College-Huntsville,Huntsville,AL,12.0,1.0,1.0
+Northwest Vista College,SanAntonio,TX,11.0,2.0,0.0
+Arizona State University-Polytechnic,Mesa,AZ,11.0,0.0,2.0
+University of Phoenix-Detroit Campus,Southfield,MI,13.0,2.0,2.0
+Living Arts College,Raleigh,NC,11.0,0.0,1.0
+The Illinois Institute of Art-Schaumburg,Schaumburg,IL,13.0,1.0,1.0
+The Art Institute of Phoenix,Phoenix,AZ,11.0,1.0,1.0
+ITT Technical Institute-Henderson,Henderson,NV,11.0,1.0,1.0
+Colorado Technical University-Greenwood Village,Aurora,CO,11.0,1.0,1.0
+Heald College-Portland,Portland,OR,11.0,1.0,0.0
+Kaplan College-San Antonio-Ingram,SanAntonio,TX,11.0,1.0,0.0
+Delaware College of Art and Design,Wilmington,DE,13.0,1.0,0.0
+The Art Institute of California-Argosy University Los Angeles,SantaMonica,CA,13.0,1.0,1.0
+Spencerian College-Lexington,Lexington,KY,11.0,1.0,0.0
+ITT Technical Institute-Richardson,Richardson,TX,12.0,1.0,1.0
+South Louisiana Community College,Lafayette,LA,12.0,1.0,0.0
+University of Phoenix-North Florida Campus,Jacksonville,FL,11.0,0.0,2.0
+University of Phoenix-Maryland Campus,Columbia,MD,13.0,0.0,2.0
+University of Phoenix-Oklahoma City Campus,OklahomaCity,OK,11.0,0.0,2.0
+University of Phoenix-Tulsa Campus,Tulsa,OK,11.0,0.0,2.0
+Vatterott College-St Joseph,SaintJoseph,MO,13.0,1.0,0.0
+Anthem College-Orlando,Orlando,FL,12.0,1.0,0.0
+National American University-Bloomington,Bloomington,MN,13.0,2.0,2.0
+University of Connecticut-Stamford,Stamford,CT,12.0,1.0,1.0
+University of Management and Technology,Arlington,VA,12.0,2.0,2.0
+Baton Rouge Community College,BatonRouge,LA,12.0,1.0,0.0
+Westwood College-Anaheim,Anaheim,CA,11.0,1.0,1.0
+Carrington College California-San Jose,SanJose,CA,11.0,1.0,0.0
+University of Phoenix-Southern Colorado Campus,ColoradoSprings,CO,11.0,0.0,2.0
+American InterContinental University-Atlanta,Atlanta,GA,13.0,2.0,2.0
+Remington College-Baton Rouge Campus,BatonRouge,LA,12.0,1.0,0.0
+Kaplan College-Beaumont,Beaumont,TX,12.0,1.0,0.0
+Kaplan College-Laredo,Laredo,TX,12.0,1.0,0.0
+The Art Institute of Washington,Arlington,VA,12.0,1.0,1.0
+National American University-Albuquerque West,Albuquerque,NM,11.0,2.0,2.0
+Oregon State University-Cascades Campus,Bend,OR,13.0,0.0,2.0
+Vatterott College-Dividend,Memphis,TN,11.0,1.0,0.0
+Vatterott College-Tulsa,Tulsa,OK,11.0,1.0,0.0
+Vatterott College-Wichita,Wichita,KS,11.0,1.0,0.0
+Lamar Institute of Technology,Beaumont,TX,12.0,2.0,0.0
+Virginia College-Jackson,Jackson,MS,12.0,2.0,0.0
+The Art Institute of California-Argosy University Orange County,SantaAna,CA,11.0,1.0,1.0
+Lincoln Technical Institute-Northeast Philadelphia,Philadelphia,PA,11.0,1.0,0.0
+Lincoln Technical Institute-Center City Philadelphia,Philadelphia,PA,11.0,1.0,0.0
+University of Phoenix-Atlanta Campus,SandySprings,GA,13.0,0.0,2.0
+University of Phoenix-Chicago Campus,Schaumburg,IL,13.0,0.0,2.0
+University of Phoenix-Nashville Campus,Nashville,TN,11.0,0.0,2.0
+University of Phoenix-Northern Virginia Campus,Reston,VA,13.0,0.0,2.0
+Interactive College of Technology-Gainesville,Gainesville,GA,13.0,1.0,0.0
+Grantham University,KansasCity,MO,11.0,2.0,2.0
+Minnesota School of Business-Plymouth,Plymouth,MN,13.0,1.0,1.0
+National American University-Overland Park,OverlandPark,KS,12.0,2.0,2.0
+DigiPen Institute of Technology,Redmond,WA,13.0,0.0,1.0
+University of Phoenix-Charlotte Campus,Charlotte,NC,11.0,0.0,2.0
+Westwood College-Chicago Loop,Chicago,IL,11.0,1.0,1.0
+Interactive Learning Systems-North Houston,Houston,TX,11.0,1.0,0.0
+Strayer University-Tennessee,Memphis,TN,11.0,2.0,2.0
+Kaplan College-Brownsville,Brownsville,TX,12.0,1.0,0.0
+University of Phoenix-Columbus Georgia Campus,Columbus,GA,12.0,0.0,2.0
+University of Phoenix-Memphis Campus,Cordova,TN,11.0,0.0,2.0
+University of Phoenix-Little Rock Campus,LittleRock,AR,12.0,0.0,2.0
+Colorado Technical University-Online,ColoradoSprings,CO,11.0,2.0,2.0
+Folsom Lake College,Folsom,CA,13.0,1.0,0.0
+Daymar Institute-Murfreesboro,Murfreesboro,TN,12.0,1.0,1.0
+The Art Institute of Tucson,Tucson,AZ,11.0,1.0,1.0
+American InterContinental University-Online,Schaumburg,IL,13.0,2.0,2.0
+Westwood College-Atlanta Midtown,Atlanta,GA,11.0,1.0,1.0
+ITT Technical Institute-Eden Prairie,EdenPrairie,MN,13.0,1.0,1.0
+International Academy of Design and Technology-Troy,Troy,MI,13.0,1.0,1.0
+American InterContinental University-Houston,Houston,TX,11.0,1.0,1.0
+University of Phoenix-Jersey City Campus,JerseyCity,NJ,11.0,0.0,2.0
+Vatterott College-St Charles,StCharles,MO,13.0,1.0,0.0
+Neumont University,SaltLakeCity,UT,12.0,0.0,1.0
+Career Quest Learning Centers-Lansing,Lansing,MI,12.0,1.0,0.0
+Stanbridge College,Irvine,CA,12.0,1.0,2.0
+Harrisburg University of Science and Technology,Harrisburg,PA,13.0,0.0,1.0
+Stevens-Henager College-Logan,Logan,UT,13.0,1.0,1.0
+ITT Technical Institute-Kansas City,KansasCity,MO,11.0,1.0,1.0
+Westwood College-Arlington Ballston,Arlington,VA,12.0,1.0,1.0
+Platt College-Dallas,Dallas,TX,11.0,1.0,0.0
+Eagle Gate College-Salt Lake City,SaltLakeCity,UT,12.0,2.0,0.0
+Minnesota School of Business-Rochester,Rochester,MN,12.0,1.0,1.0
+Asher College,Sacramento,CA,13.0,1.0,0.0
+The Art Institute of Indianapolis,Indianapolis,IN,11.0,1.0,1.0
+ITT Technical Institute-Charlotte South,Charlotte,NC,11.0,1.0,1.0
+ITT Technical Institute-Lexington,Lexington,KY,11.0,1.0,1.0
+ITT Technical Institute-Oklahoma City,OklahomaCity,OK,11.0,1.0,1.0
+ITT Technical Institute-Tulsa,Tulsa,OK,11.0,1.0,1.0
+University of Phoenix-Northwest Arkansas Campus,Rogers,AR,13.0,0.0,2.0
+The Art Institute of California-Argosy University Inland Empire,SanBernardino,CA,12.0,1.0,1.0
+National American University-Zona Rosa,KansasCity,MO,11.0,2.0,2.0
+Rasmussen College-Illinois,Rockford,IL,12.0,2.0,2.0
+College America-Colorado Springs,ColoradoSprings,CO,11.0,1.0,1.0
+College America-Fort Collins,FortCollins,CO,12.0,1.0,1.0
+The Art Institute of Tennessee-Nashville,Nashville,TN,11.0,1.0,1.0
+South University-Tampa,Tampa,FL,11.0,1.0,1.0
+The Art Institute of Charleston,Charleston,SC,12.0,1.0,1.0
+The Art Institute of California-Argosy University Sacramento,Sacramento,CA,11.0,1.0,1.0
+ITT Technical Institute-St Petersburg,StPetersburg,FL,12.0,1.0,1.0
+ITT Technical Institute-Columbia,Columbia,SC,12.0,1.0,1.0
+ITT Technical Institute-Wichita,Wichita,KS,11.0,1.0,1.0
+ITT Technical Institute-Mobile,Mobile,AL,12.0,1.0,1.0
+ITT Technical Institute-Chattanooga,Chattanooga,TN,12.0,1.0,1.0
+Strayer University-Alabama,Birmingham,AL,12.0,2.0,2.0
+International Academy of Design and Technology-Sacramento,Sacramento,CA,11.0,1.0,1.0
+International Academy of Design and Technology-San Antonio,SanAntonio,TX,11.0,1.0,1.0
+University of Phoenix-Augusta Campus,Augusta,GA,12.0,0.0,2.0
+Argosy University-Inland Empire,Ontario,CA,12.0,1.0,1.0
+Rasmussen College-Wisconsin,GreenBay,WI,12.0,2.0,2.0
+Digital Media Arts College,BocaRaton,FL,13.0,0.0,1.0
+The Art Institute of Pittsburgh-Online Division,Pittsburgh,PA,11.0,2.0,2.0
+College America-Cheyenne,Cheyenne,WY,13.0,1.0,1.0
+The Art Institute of Michigan,Novi,MI,13.0,1.0,1.0
+The Art Institute of Austin,Austin,TX,12.0,1.0,1.0
+The Art Institute of California-Argosy University-Silicon Valley,Sunnyvale,CA,12.0,1.0,1.0
+National American University-Austin,Austin,TX,11.0,2.0,2.0
+National American University-Wichita,Wichita,KS,11.0,2.0,2.0
+ITT Technical Institute-Columbus,Columbus,OH,11.0,1.0,1.0
+ITT Technical Institute-Phoenix,Phoenix,AZ,11.0,1.0,1.0
+ITT Technical Institute-High Point,HighPoint,NC,12.0,1.0,1.0
+The Art Institute of Raleigh-Durham,Durham,NC,12.0,1.0,1.0
+Strayer University-Kentucky,Lexington,KY,11.0,2.0,2.0
+National College-Cincinnati,Cincinnati,OH,11.0,1.0,0.0
+Career Quest Learning Centers-Jackson,Jackson,MI,13.0,1.0,0.0
+Bryan University,Rogers,AR,13.0,1.0,0.0
+Broadview University-Orem,Orem,UT,13.0,1.0,1.0
+Vatterott College-Appling Farms,Memphis,TN,11.0,1.0,0.0
+Brown Mackie College-Boise,Boise,ID,12.0,1.0,1.0
+Brown Mackie College-Tulsa,Tulsa,OK,11.0,1.0,1.0
+Miller-Motte College-Greenville,Greenville,NC,13.0,1.0,0.0
+Virginia College-Jacksonville,Jacksonville,FL,11.0,1.0,0.0
+Miller-Motte College-Raleigh,Raleigh,NC,11.0,1.0,0.0
+Lincoln College of Technology-Toledo,Toledo,OH,11.0,1.0,0.0
+ITT Technical Institute-Springfield,Springfield,MO,12.0,1.0,1.0
+ITT Technical Institute-Charlotte North,Charlotte,NC,11.0,1.0,1.0
+Brown Mackie College-Phoenix,Phoenix,AZ,11.0,1.0,1.0
+Brown Mackie College-Greenville,Greenville,SC,13.0,1.0,1.0
+Globe University-Eau Claire,EauClaire,WI,13.0,1.0,1.0
+Globe University-Minneapolis,Minneapolis,MN,11.0,1.0,1.0
+National College-Columbus,Columbus,OH,11.0,1.0,0.0
+Herzing University-Toledo,Toledo,OH,11.0,2.0,2.0
+American Business and Technology University,StJoseph,MO,13.0,2.0,2.0
+Kaplan College-Indianapolis,Indianapolis,IN,11.0,1.0,0.0
+The Art Institute of Virginia Beach,VirginiaBeach,VA,11.0,1.0,1.0
+Kaplan College-Arlington,Arlington,TX,11.0,1.0,0.0
+Kaplan College-Jacksonville,Jacksonville,FL,11.0,1.0,0.0
+Globe University-Madison East,Madison,WI,12.0,1.0,1.0
+Strayer University-Arkansas,LittleRock,AR,12.0,2.0,2.0
+Strayer University-Louisiana,Metairie,LA,12.0,2.0,2.0
+Strayer University-Mississippi,Jackson,MS,12.0,2.0,2.0
+Strayer University-South Carolina,Greenville,SC,13.0,2.0,2.0
+Strayer University-Texas,Austin,TX,11.0,2.0,2.0
+The Art Institute of San Antonio,SanAntonio,TX,11.0,1.0,1.0
+Globe University-La Crosse,Onalaska,WI,13.0,1.0,1.0
+Bryant & Stratton College-Hampton,Hampton,VA,12.0,1.0,1.0
+South University–Virginia Beach,VirginiaBeach,VA,11.0,1.0,1.0
+ITT Technical Institute-Tallahassee,Tallahassee,FL,12.0,1.0,1.0
+ITT Technical Institute-Cedar Rapids,CedarRapids,IA,12.0,1.0,1.0
+ITT Technical Institute-Corona,Corona,CA,12.0,1.0,1.0
+ITT Technical Institute-Johnson City,JohnsonCity,TN,13.0,1.0,1.0
+ITT Technical Institute-North Charleston,NorthCharleston,SC,13.0,1.0,1.0
+ITT Technical Institute-Aurora,Aurora,CO,11.0,1.0,1.0
+ITT Technical Institute-Dearborn,Dearborn,MI,13.0,1.0,1.0
+Strayer University-Global Region,Washington,DC,11.0,2.0,2.0
+Brown Mackie College-Albuquerque,Albuquerque,NM,11.0,1.0,1.0
+California University of Management and Sciences,Anaheim,CA,11.0,0.0,1.0
+Brown Mackie College-San Antonio,SanAntonio,TX,11.0,1.0,1.0
+American Sentinel University,Aurora,CO,11.0,2.0,2.0
+Stevens-Henager College-Boise,Boise,ID,12.0,1.0,2.0
+ITT Technical Institute-Durham,Durham,NC,12.0,1.0,1.0
+National American University-Tulsa,Tulsa,OK,11.0,2.0,2.0
+National American University-Colorado Springs South,ColoradoSprings,CO,11.0,2.0,2.0
+ITT Technical Institute-Oakland,Oakland,CA,11.0,1.0,1.0
+South University-The Art Institute of Fort Worth,FortWorth,TX,11.0,1.0,1.0
+South University-Novi,Novi,MI,13.0,1.0,1.0
+Career Quest Learning Center-Kalamazoo,Kalamazoo,MI,13.0,1.0,0.0
+ITT Technical Institute-Phoenix West,Phoenix,AZ,11.0,1.0,1.0
+ITT Technical Institute-Waco,Waco,TX,12.0,1.0,1.0
+ITT Technical Institute-Myrtle Beach,MyrtleBeach,SC,13.0,1.0,1.0
+College America-Phoenix,Phoenix,AZ,11.0,1.0,1.0
+University of Phoenix-Baton Rouge Campus,BatonRouge,LA,12.0,0.0,2.0
+University of Phoenix-Lafayette Campus,Lafayette,LA,12.0,0.0,2.0
+South University–Savannah Online,Savannah,GA,12.0,2.0,2.0
+Stella and Charles Guttman Community College,NewYork,NY,11.0,1.0,0.0
+Bryan University,Columbia,MO,12.0,1.0,0.0
+Virginia College-Knoxville,Knoxville,TN,12.0,1.0,1.0
+Sessions College for Professional Design,Tempe,AZ,12.0,2.0,0.0
+Strayer University-Wisconsin,Milwaukee,WI,11.0,2.0,2.0
+Strayer University-Indiana,Indianapolis,IN,11.0,2.0,2.0
+Strayer University-Illinois,Chicago,IL,11.0,2.0,2.0
+Stevens-Henager College-St George,StGeorge,UT,13.0,1.0,1.0
+ITT Technical Institute-Philadelphia,Philadelphia,PA,11.0,1.0,0.0
+ITT Technical Institute-Grand Rapids,Wyoming,MI,13.0,1.0,1.0
+ITT Technical Institute-Southfield,Southfield,MI,13.0,1.0,1.0
+ITT Technical Institute-Salem,Salem,OR,12.0,1.0,1.0
+ITT Technical Institute-Indianapolis East,Indianapolis,IN,11.0,1.0,1.0
+ITT Technical Institute-Overland Park,OverlandPark,KS,12.0,1.0,1.0
+ITT Technical Institute-Springfield,Springfield,IL,12.0,1.0,1.0
+Florida Institute of Technology-Online,Melbourne,FL,13.0,2.0,2.0
+Advanced Computing Institute,LosAngeles,CA,11.0,1.0,0.0
+Strayer University-Missouri,KansasCity,MO,11.0,2.0,2.0
+ITT Technical Institute-Pensacola,Pensacola,FL,13.0,1.0,1.0
+ITT Technical Institute-San Antonio East,SanAntonio,TX,11.0,1.0,1.0
+Georgia Regents University,Augusta,GA,12.0,1.0,2.0
+Middle Georgia State College,Macon,GA,13.0,1.0,2.0
+National American University-Austin South,Austin,TX,11.0,2.0,2.0
+National American University-Richardson,Richardson,TX,12.0,2.0,2.0
+National American University-Rochester,Rochester,MN,12.0,2.0,2.0
+National American University-Wichita West,Wichita,KS,11.0,2.0,2.0
+National American University-Indianapolis,Indianapolis,IN,11.0,2.0,2.0
+The Art Institute of St Louis,StCharles,MO,13.0,1.0,1.0
+DeVry College of New York,NewYork,NY,11.0,1.0,1.0
+DeVry University-Arizona,Phoenix,AZ,11.0,1.0,1.0
+DeVry University-Illinois,Chicago,IL,11.0,2.0,2.0
+DeVry University-Indiana,Indianapolis,IN,11.0,1.0,1.0
+DeVry University-Maryland,Bethesda,MD,13.0,0.0,1.0
+DeVry University-Michigan,Southfield,MI,13.0,1.0,1.0
+DeVry University-Missouri,KansasCity,MO,11.0,1.0,1.0
+DeVry University-Nevada,Henderson,NV,11.0,1.0,1.0
+DeVry University-North Carolina,Charlotte,NC,11.0,1.0,1.0
+DeVry University-Ohio,Columbus,OH,11.0,2.0,2.0
+DeVry University-Oklahoma,OklahomaCity,OK,11.0,1.0,1.0
+DeVry University-Tennessee,Memphis,TN,11.0,1.0,1.0
+DeVry University-Texas,Irving,TX,12.0,1.0,1.0
+DeVry University-Virginia,Arlington,VA,12.0,1.0,1.0
+DeVry University-Wisconsin,Milwaukee,WI,11.0,1.0,1.0
+Northeastern University Global Network,Boston,MA,11.0,2.0,2.0
+Central Georgia Technical College,WarnerRobins,GA,13.0,2.0,0.0

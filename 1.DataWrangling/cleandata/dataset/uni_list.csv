@@ -1,0 +1,49 @@
+INSTNM,CITY,STABBR,LOCALE,CIP11ASSOC,CIP11BACHL,Startup Rank,ViolentCrime,Murder,Rape,Robbery,AggravatedAssault,PropertyCrime,Burglary,Theft,MotorVehicleTheft,TotalCrime
+Austin Community College District,Austin,TX,11.0,2.0,0.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+Concordia University-Texas,Austin,TX,11.0,1.0,2.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+Huston-Tillotson University,Austin,TX,11.0,0.0,1.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+Saint Edward's University,Austin,TX,11.0,0.0,1.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+The University of Texas at Austin,Austin,TX,11.0,0.0,1.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+ITT Technical Institute-Austin,Austin,TX,11.0,1.0,1.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+The Art Institute of Austin,Austin,TX,12.0,1.0,1.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+National American University-Austin,Austin,TX,11.0,2.0,2.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+Strayer University-Texas,Austin,TX,11.0,2.0,2.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+National American University-Austin South,Austin,TX,11.0,2.0,2.0,1,287.7,2.2,44.9,61.2,179.4,2672.8,415.7,2096.8,160.2,5920.900000000001
+Evergreen Valley College,SanJose,CA,11.0,2.0,0.0,3,251.5,2.3,29.6,80.1,139.6,2316.7,438.9,1406.3,471.4,5136.4
+San Jose City College,SanJose,CA,11.0,2.0,0.0,3,251.5,2.3,29.6,80.1,139.6,2316.7,438.9,1406.3,471.4,5136.4
+San Jose State University,SanJose,CA,11.0,0.0,2.0,3,251.5,2.3,29.6,80.1,139.6,2316.7,438.9,1406.3,471.4,5136.4
+University of Phoenix-Bay Area Campus,SanJose,CA,11.0,0.0,2.0,3,251.5,2.3,29.6,80.1,139.6,2316.7,438.9,1406.3,471.4,5136.4
+Carrington College California-San Jose,SanJose,CA,11.0,1.0,0.0,3,251.5,2.3,29.6,80.1,139.6,2316.7,438.9,1406.3,471.4,5136.4
+California State University-Los Angeles,LosAngeles,CA,11.0,0.0,1.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+University of California-Los Angeles,LosAngeles,CA,11.0,0.0,1.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Los Angeles Trade Technical College,LosAngeles,CA,11.0,1.0,0.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Los Angeles City College,LosAngeles,CA,11.0,1.0,0.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Loyola Marymount University,LosAngeles,CA,11.0,0.0,1.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Occidental College,LosAngeles,CA,11.0,0.0,1.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Pacific States University,LosAngeles,CA,11.0,0.0,1.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Westwood College-Los Angeles,LosAngeles,CA,11.0,2.0,2.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+University of Southern California,LosAngeles,CA,11.0,0.0,1.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Los Angeles ORT College-Los Angeles Campus,LosAngeles,CA,11.0,1.0,0.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+Advanced Computing Institute,LosAngeles,CA,11.0,1.0,0.0,4,431.9,4.9,35.1,149.1,242.8,2308.1,418.5,1496.1,393.5,5480.0
+California State University-Los Angeles,LosAngeles,CA,11.0,0.0,1.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+University of California-Los Angeles,LosAngeles,CA,11.0,0.0,1.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Los Angeles Trade Technical College,LosAngeles,CA,11.0,1.0,0.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Los Angeles City College,LosAngeles,CA,11.0,1.0,0.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Loyola Marymount University,LosAngeles,CA,11.0,0.0,1.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Occidental College,LosAngeles,CA,11.0,0.0,1.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Pacific States University,LosAngeles,CA,11.0,0.0,1.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Westwood College-Los Angeles,LosAngeles,CA,11.0,2.0,2.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+University of Southern California,LosAngeles,CA,11.0,0.0,1.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Los Angeles ORT College-Los Angeles Campus,LosAngeles,CA,11.0,1.0,0.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+Advanced Computing Institute,LosAngeles,CA,11.0,1.0,0.0,4,495.7,5.8,38.4,173.7,277.8,2357.7,445.9,1480.8,431.1,5706.9
+California College San Diego,SanDiego,CA,11.0,1.0,1.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+Coleman University,SanDiego,CA,11.0,1.0,1.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+The Art Institute of California-Argosy University San Diego,SanDiego,CA,11.0,1.0,1.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+Platt College-San Diego,SanDiego,CA,11.0,1.0,1.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+Point Loma Nazarene University,SanDiego,CA,11.0,0.0,1.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+San Diego City College,SanDiego,CA,11.0,1.0,0.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+San Diego Mesa College,SanDiego,CA,11.0,1.0,0.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+San Diego Miramar College,SanDiego,CA,11.0,1.0,0.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+San Diego State University,SanDiego,CA,11.0,0.0,1.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+University of San Diego,SanDiego,CA,11.0,0.0,1.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
+University of Phoenix-San Diego Campus,SanDiego,CA,11.0,2.0,2.0,9,331.8,2.5,33.3,84.9,211.1,1922.1,325.4,1296.6,300.0,4507.7
